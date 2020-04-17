@@ -1,0 +1,17 @@
+name: azs-l2r
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - scikit-learn
+  - requests
+  - matplotlib
+  - jupyter
+  - jupyterlab
+  - seaborn
+  - pip
+  - pip:
+    - xgboost
+prefix: C:\Users\wenyang\AppData\Local\Continuum\anaconda3\envs\azs-l2r
