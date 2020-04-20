@@ -16,6 +16,7 @@ TBD
 
 ## One-Click Alternative
 
-For a free, runnable link to the notebook, please click on the Binder button below. Note that Binder is a free service with limited computational resources -- we recommend 
+- For a free, runnable link to the notebook, please click on the Binder button below.
+- Please note that MyBinder is a free public service with limited computational resources. Skip the K-Fold cross-validation section if you're running this on Binder.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://aka.ms/AA877hx)
