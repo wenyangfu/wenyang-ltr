@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 from IPython.display import display, HTML
 from matplotlib import pyplot as plt
-
+from sklearn.preprocessing import minmax_scale, QuantileTransformer
 
 def compute_judgments_after_training(
     predictions, query_doc_counts, X_test, y_test, verbose=False
@@ -83,6 +83,21 @@ def compute_judgments_after_training(
             print(judgments)
 
     return np.array(model_judgments), np.array(azs_judgments), np.array(baseline)
+
+
+def customize_features(features):
+    # adding a query_id column will help us group the data per query later in training
+    if 'query_id' not in features:
+        features['query_id'] = features.groupby('query').ngroup()
+
+    if ('title_en_us' in features):
+        features['title_en_us'] = features['title_en_us'].map(lambda title: str(title))
+        features['title_length_in_words'] = features['title_en_us'].map(lambda title: len(title.split()))
+        features['title_length_in_chars'] = features['title_en_us'].map(lambda title: len(title))
+
+    # Discard the columns that we no longer need
+    features = features.drop(['query', 'url', 'title_en_us'], axis=1, errors='ignore')
+    return features
 
 
 def dcg_at_k(r, k, method=0):
@@ -210,7 +225,7 @@ def evaluate_ndcg(k_start, k_end, plot=False, show_lift=False, **ranking_results
         ax.set_ylabel("NDCG")
         ax.set_title("NDCG @ k")
         df.plot(ax=ax)
-        
+
         if show_lift:
             lift = df.pct_change(axis=1) * 100
             lift.set_axis(range(k_start, k_end + 1), axis=0, inplace=True)
@@ -242,6 +257,39 @@ def escape_query(query):
 
     return query
 
+
+def get_search_results_from_service(service, query, urls_filter):
+    search_request_body = {
+        "search": escape_query(query),
+        "featuresMode": "enabled",
+        "select": "title_en_us, url_en_us, sectionCount, tableCount, normalized_pageview",
+        "searchFields": "body_en_us,description_en_us,title_en_us,apiNames,urlPath,searchTerms, keyPhrases_en_us",
+        "scoringStatistics": "global",
+        "sessionId" : "my_session",
+        "top" : 20
+    }
+
+    if len(urls_filter) > 0:
+        search_request_body["filter"] = " or ".join(f"url_en_us eq '{url}'" for url in urls_filter)
+
+    return service.search(search_request_body)
+
+
+def normalize_features(features):
+    query_groups = features.groupby('query_id')
+
+    for feature in features.columns:
+        if feature not in['normalized_pageview', 'grade', 'query_id'] and features.dtypes[feature] in [float, int]:
+            features[feature] = query_groups[feature].transform(lambda x: minmax_scale(x.astype(float)))
+
+    if 'normalized_pageview' in features.columns:
+        features['normalized_pageview'] = query_groups['normalized_pageview'].transform(
+            lambda x: np.concatenate(
+                QuantileTransformer(n_quantiles=min(len(x), 4)).fit_transform(x.values.reshape(-1,1))
+            )
+        )
+
+    return features
 
 def show_ndcg_results(ndcg_results, k_start, k_end, plot=True):
     results_df = pd.concat(ndcg_results)
