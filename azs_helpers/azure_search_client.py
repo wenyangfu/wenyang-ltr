@@ -105,7 +105,7 @@ class azure_search_client:
         print(response.json())
         return response.json()
 
-    def search(self, body):
+    def search(self, body, verbose=False):
         for retry_count in range(5):
             response = requests.post(
                 self.search_api_uri, headers=self.headers, json=body, verify=False
@@ -114,10 +114,12 @@ class azure_search_client:
             if response.status_code == 200:
                 return response.json()["value"]
             else:
-                print(
-                    f"Search request failed with status: {response.status_code}. Sleeping 100ms. Retrying... Retry count so far {retry_count}"
-                )
+                if verbose:
+                    print(
+                        f"Search request failed with status: {response.status_code}. Sleeping 100ms. Retrying... Retry count so far {retry_count}"
+                    )
                 time.sleep(0.1)
+        print(f"Search request failed with status: {response.status_code} after {retry_count} retries.")
 
     def upload_doc_batch(self, documents):
         payload = {"value": documents}
