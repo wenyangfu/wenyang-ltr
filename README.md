@@ -11,7 +11,7 @@ An end-to-end tutorial for training an external L2 Ranker on top of Azure Cognit
 
 1. Download and install the latest version of [Anaconda](https://www.anaconda.com/distribution/#download-section) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
 2. Clone this repository to your local machine.
-    - If on Windows, make sure to open this folder with an Anaconda Command Prompt.
+    - If on Windows, make sure to open this repo with an Anaconda Command Prompt.
     - If on Linux or OSX, if you didn't add Anaconda to your system `PATH` variable, you'll have to source the Anaconda envrionment manually.
 3. Install the conda environment with `conda env create -f environment.yml`. Wait for installation to finish.
 4. Activate the environment with `conda activate azs-l2r`.
