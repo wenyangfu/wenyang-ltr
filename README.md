@@ -5,7 +5,9 @@ An end-to-end tutorial for training an external L2 Ranker on top of Azure Cognit
 
 ## Prerequisites
 - An existing [Azure Cognitive Search](https://azure.microsoft.com/en-us/services/search/) cluster
-- Prior background in machine learning, at least at the level of [Machine learning crash course](https://docs.microsoft.com/en-us/learn/paths/ml-crash-course/) or better yet, [Andrew Ng's Machine Learning course](https://www.coursera.org/learn/machine-learning)
+
+### Optional
+- Prior background in machine learning would be good to have. For a hands-on, introductory tutorial, check out [Machine learning crash course](https://docs.microsoft.com/en-us/learn/paths/ml-crash-course/). [Andrew Ng's Machine Learning course](https://www.coursera.org/learn/machine-learning) is also a great option if you have more time.
 
 ## Installation
 
