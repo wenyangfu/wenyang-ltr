@@ -17,7 +17,7 @@ An end-to-end tutorial for training an external L2 Ranker on top of Azure Cognit
     - If on Linux or OSX, if you didn't add Anaconda to your system `PATH` variable, you'll have to source the Anaconda envrionment manually.
 3. Install the conda environment with `conda env create -f environment.yml`. Wait for installation to finish.
 4. Activate the environment with `conda activate azs-l2r`.
-5. Run Jupyter with your choice of `jupyter notebook` or `jupyter lab`. Navigate to the tutorial at `l2r_msft_docs.ipynb`.
+5. Run Jupyter with your choice of `jupyter notebook` or `jupyter lab`. Navigate to the tutorial at `l2r_part1_data_eng.ipynb` and `l2r_part2_experiment.ipynb`.
 
 
 ## One-Click Alternative
