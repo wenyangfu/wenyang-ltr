@@ -8,9 +8,9 @@ import requests
 
 
 class azs_msft_docs:
-    def __init__(self, judgement_file_path, verbose=False):
-        self.judgements = pd.read_csv(judgement_file_path)
-        self.judgements = self.judgements.drop(['title'], axis=1)
+    def __init__(self, judgment_file_path, verbose=False):
+        self.judgments = pd.read_csv(judgment_file_path)
+        self.judgments = self.judgments.drop(['title'], axis=1)
         self.verbose = verbose
 
     def get_documents_from_local_folder(self, directory_path):
@@ -27,8 +27,8 @@ class azs_msft_docs:
 
     def _set_schema(self, service_metadata, schema_file="msft_docs_index_schema.json"):
         script_dir = Path(os.path.dirname(__file__))
-        full_path = script_dir / "index_schema" / schema_file
-        with open(full_path, 'r') as f:
+        schema_path = script_dir / "index_schema" / schema_file
+        with open(schema_path, 'r') as f:
             schema_body = json.load(f)
             index_schema = {}
             index_schema.update(schema_body)

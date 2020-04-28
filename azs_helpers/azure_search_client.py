@@ -25,7 +25,7 @@ class azure_search_client:
             config["endpoint"],
             config["api_version"],
             config["api_key"],
-            config["index_Name"],
+            config["index_name"],
         )
 
     @property
