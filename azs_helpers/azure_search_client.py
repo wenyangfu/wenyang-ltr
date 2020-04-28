@@ -85,11 +85,11 @@ class azure_search_client:
         )
 
         if response.status_code != 200:
-            print("Failed to connect to search service '{0}'. Response code '{1}'".format(self.service_name, response.status_code))
+            print(f"Failed to connect to search service '{self.service_name}'. Response code '{response.status_code}'")
             print(response.text)
             return False
         else:
-            print("Succesfully connected to search service '{0}'".format(self.service_name))
+            print(f"Succesfully connected to search service '{self.service_name}'")
             matching_index = [service_index['name'] for service_index in response.json()['value'] if service_index['name'] == self.index_name]
             return len(matching_index) == 1
 
@@ -119,6 +119,7 @@ class azure_search_client:
                         f"Search request failed with status: {response.status_code}. Sleeping 100ms. Retrying... Retry count so far {retry_count}"
                     )
                 time.sleep(0.1)
+
         print(f"Search request failed with status: {response.status_code} after {retry_count} retries.")
 
     def upload_doc_batch(self, documents):
