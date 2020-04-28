@@ -143,7 +143,7 @@ def dcg_at_k(r, k, method=0):
     return 0.0
 
 
-def ndcg_at_k(r, k, method=0):
+def ndcg_at_k(r, k, method=1):
     """Score is normalized discounted cumulative gain (ndcg)
 
     Relevance is positive real values.  Can use binary
