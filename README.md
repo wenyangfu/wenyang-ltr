@@ -1,7 +1,18 @@
 # wenyang-ltr
 
 ## What's This?
-An end-to-end tutorial for training an external L2 Ranker on top of Azure Cognitive Search.
+- An end-to-end tutorial for training an external L2 Ranker on top of Azure Cognitive Search.
+
+## Who is This For?
+- Azure Cognitive Search users who are looking to increase relevance in their search systems.
+    - Azure Cognitive Search provides [Scoring Profiles](https://docs.microsoft.com/en-us/azure/search/index-add-scoring-profiles) as a way to boost relevance. This tutorial demonstrates more advanced techniques that can be used if you hit a wall with Scoring Profiles.
+- Users interested in enriching their search systems with machine learning.
+
+## Why L2 Ranker?
+- Machine learned ranking models are highly effective and battle tested, seeing live use in many search systems, such as Bing, Google, Facebook, Twitter, and Netflix. A good ranking model drastically improves the quality of any given search experience.
+- Training and serving a live ranking system involves lots of "gotchas". This tutorial distills the training process down to a simple, yet robust form.
+
+# Setup
 
 ## Prerequisites
 - An existing [Azure Cognitive Search](https://azure.microsoft.com/en-us/services/search/) cluster
