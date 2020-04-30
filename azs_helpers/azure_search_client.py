@@ -27,7 +27,7 @@ class azure_search_client:
             config["endpoint"],
             config["api_version"],
             config["api_key"],
-            config["index_name"]
+            config["index_name"],
         )
 
     @property
@@ -133,7 +133,7 @@ class azure_search_client:
         )
 
         if response.status_code != 200:
-            print("Failed to connect to search service '{0}'. Response code '{1}'".format(self.service_name, response.status_code))
+            print(f"Failed to connect to search service '{self.service_name}'. Response code '{response.status_code}'")
             print(response.text)
             return False
         else:
