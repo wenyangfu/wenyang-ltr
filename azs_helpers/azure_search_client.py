@@ -2,6 +2,8 @@ import math
 import json
 import time
 from pprint import pprint
+from pathlib import Path
+import os
 
 import requests
 
@@ -25,8 +27,16 @@ class azure_search_client:
             config["endpoint"],
             config["api_version"],
             config["api_key"],
-            config["index_Name"],
+            config["index_name"]
         )
+
+    @property
+    def datasource_name(self):
+        return self.index_name + "-datasource" 
+
+    @property
+    def indexer_name(self):
+        return self.index_name + "-indexer" 
 
     @property
     def headers(self):
@@ -41,7 +51,7 @@ class azure_search_client:
             + "&service="
             + self.service_name
         )
-
+    
     @property
     def index_doc_count_api_uri(self):
         return (
@@ -49,18 +59,6 @@ class azure_search_client:
             + "indexes/"
             + self.index_name
             + "/docs/$count?api-version="
-            + self.api_version
-            + "&service="
-            + self.service_name
-        )
-
-    @property
-    def upload_doc_uri(self):
-        return (
-            self.endpoint
-            + "indexes/"
-            + self.index_name
-            + "/docs/index?api-version="
             + self.api_version
             + "&service="
             + self.service_name
@@ -79,20 +77,26 @@ class azure_search_client:
             + "&featuresMode=enabled"
         )
 
-    def index_exist(self):
-        response = requests.get(
-            self.index_api_uri + "&$select=name", headers=self.headers, verify=False
+    @property
+    def datasource_api_uri(self):
+        return (
+            self.endpoint
+            + "datasources?api-version="
+            + self.api_version
+            + "&service="
+            + self.service_name
         )
-
-        if response.status_code != 200:
-            print("Failed to connect to search service '{0}'. Response code '{1}'".format(self.service_name, response.status_code))
-            print(response.text)
-            return False
-        else:
-            print("Succesfully connected to search service '{0}'".format(self.service_name))
-            matching_index = [service_index['name'] for service_index in response.json()['value'] if service_index['name'] == self.index_name]
-            return len(matching_index) == 1
-
+    
+    @property
+    def indexer_api_uri(self):
+        return (
+            self.endpoint
+            + "indexers?api-version="
+            + self.api_version
+            + "&service="
+            + self.service_name
+        )
+    
     def index_documents_count(self):
         response = requests.get(
             self.index_doc_count_api_uri, headers=self.headers, verify=False
@@ -119,36 +123,118 @@ class azure_search_client:
                         f"Search request failed with status: {response.status_code}. Sleeping 100ms. Retrying... Retry count so far {retry_count}"
                     )
                 time.sleep(0.1)
+
         print(f"Search request failed with status: {response.status_code} after {retry_count} retries.")
 
-    def upload_doc_batch(self, documents):
-        payload = {"value": documents}
+
+    def resource_exist(self, api_uri, resource_name):
+        response = requests.get(
+            api_uri + "&$select=name", headers=self.headers, verify=False
+        )
+
+        if response.status_code != 200:
+            print("Failed to connect to search service '{0}'. Response code '{1}'".format(self.service_name, response.status_code))
+            print(response.text)
+            return False
+        else:
+            matching_resource = [resource['name'] for resource in response.json()['value'] if resource['name'] == resource_name]
+            return len(matching_resource) == 1
+
+    def create_index(self):
+        if self.resource_exist(self.index_api_uri, self.index_name):
+            print(f"Index {self.index_name} already exists. Skipping creation.")
+            return
+
+        print(f"Index {self.index_name} does not exist in service. Creating.")
+            
+        script_dir = Path(os.path.dirname(__file__))
+        full_path = script_dir / "index_schema" / "docs-multilingual-20200217.json"
+        with open(full_path, 'r') as f:
+            schema_body = json.load(f)
+            index_schema = {}
+            index_schema.update(schema_body)
+            # Overwrite existing name in index schema with user-defined one.
+            index_schema["name"] = self.index_name
 
         response = requests.post(
-            self.upload_doc_uri, headers=self.headers, json=payload, verify=False
+            self.index_api_uri,
+            headers=self.headers,
+            json=index_schema,
+            verify=False
         )
-        return (payload, response)
+    
+    def create_datasource(self):
+        if self.resource_exist(self.datasource_api_uri, self.datasource_name):
+            print(f"Datasource {self.datasource_name} already exists. Skipping creation.")
+            return
 
-    def upload_documents(self, docs, batch_size=1000):
-        total_len = len(docs)
-        batch_count = math.ceil(total_len / batch_size)
-        print("Total {0}, batch count {1}".format(total_len, batch_count))
-        payload_response_tuples = []
-        for batch_id, batch in enumerate(grouper(docs, batch_size)):
-            retry_count = 0
-            while True:
-                start = batch_id * batch_size
-                end = min(start + batch_size, total_len)
-                print(f"Uploading items {start} to {end}")
-                payload, response = self.upload_doc_batch(list(filter(None, batch)))
+        datasource = {
+            "name" : self.datasource_name,
+            "type" : "azureblob",
+            "credentials" : { "connectionString" : "ContainerSharedAccessUri=https://azsmsftdocs.blob.core.windows.net/docs-english-20200217?st=2020-04-29T23%3A11%3A03Z&se=2040-01-01T23%3A11%3A00Z&sp=rl&sv=2018-03-28&sr=c&sig=gPzw2oM3RbdHOlWa06V1j0Tn4qKLCPchMUAfb2Vs4vg%3D" },
+            "container" : { "name" : "docs-english-20200217" }
+        } 
 
-                if response.status_code != 200:
-                    print(response)
-                    retry_count = retry_count + 1
-                    time.sleep(retry_count)
-                    if retry_count > 10:
-                        break
-                else:
-                    break
-                # payload_response_tuples.append((payload, response))
-        return payload_response_tuples
+        response = requests.put(
+            self.datasource_api_uri_for_update(self.datasource_name),
+            headers=self.headers,
+            json=datasource,
+            verify=False
+        )
+
+        if response.status_code > 299:
+            print(f"Failed to create datasource '{self.datasource_name}' in search service '{self.service_name}'. Status:'{response.status_code}' Error: {response.content}")
+        else:
+            print(f"Data source '{self.datasource_name}' created succesfully.")
+
+    def create_indexer(self):
+        if self.resource_exist(self.indexer_api_uri, self.indexer_name):
+            print(f"Indexer {self.indexer_name} already exists. Skipping creation.")
+            return
+
+        print(f"Indexer {self.indexer_name} does not exist in service. Creating.")
+
+        indexer = {
+            "name" : self.indexer_name,
+            "dataSourceName" : self.datasource_name,
+            "targetIndexName" : self.index_name,
+            "parameters" : { "configuration" : { "parsingMode" : "json" } }
+        }
+
+        response = requests.post(
+            self.indexer_api_uri,
+            headers=self.headers,
+            json=indexer,
+            verify=False
+        )
+
+        if response.status_code > 299:
+            print(f"Failed to create indexer '{self.indexer_name} in search service '{self.service_name}'. Status:'{response.status_code}' Error: {response.content}")
+        else:
+            print(f"Indexer '{self.indexer_name}' created succesfully.")
+
+    def wait_for_indexer_completion(self, expected_document_count):
+        if not self.resource_exist(self.indexer_api_uri, self.indexer_name):
+            return
+
+        current_count = 0
+        while current_count < expected_document_count:
+            current_count = self.index_documents_count()
+            print(f"Ingested {current_count} out of {expected_document_count} expected documents. Waiting 10 seconds.")
+            time.sleep(10)
+        print("Completed indexing.") 
+
+    def ingest_documents_from_blob_storage(self, expected_document_count):
+        actual_document_count = self.index_documents_count()
+
+        if self.index_documents_count() < expected_document_count: 
+            print(f"Index {self.index_name} contains only {actual_document_count} out of {expected_document_count} documents. Uploading documents.")
+            
+            # this step will create a new data source in your service to connect to our public
+            # Azure Storage blob container which contains the documents 
+            self.create_datasource()
+            self.create_indexer()
+            self.wait_for_indexer_completion(expected_document_count)
+                
+        else:
+            print(f"Index {self.index_name} contains all {actual_document_count} documents. Skipping ingesting documents.")
