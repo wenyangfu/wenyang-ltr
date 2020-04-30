@@ -4,7 +4,7 @@ import time
 from pprint import pprint
 from pathlib import Path
 import os
-
+import warnings
 import requests
 
 from .l2r_helper import grouper
@@ -22,13 +22,15 @@ class azure_search_client:
     def from_json(cls, config_path):
         with open(config_path, "r") as f:
             config = json.load(f)
-        return cls(
+        instance = cls(
             config["service_name"],
             config["endpoint"],
             config["api_version"],
             config["api_key"],
             config["index_name"],
         )
+        instance.test_service(config_path)
+        return instance
 
     @property
     def datasource_name(self):
@@ -97,6 +99,15 @@ class azure_search_client:
             + self.service_name
         )
     
+    def test_service(self, config_path):
+        try:
+            response = requests.get(self.index_api_uri + "&$select=name", headers=self.headers, verify=False)
+        except:
+            raise Exception(f'The provide Azure Search service metadata is invalid. Please verify the information provided in the config file located at {config_path}.')
+        
+        if response.status_code != 200:
+            raise Exception(f'We failed to connect to the Azure Search Service {self.service_name} with http status {response.status_code}. \n Please verify the information provided in the config file located at {config_path}.')
+
     def index_documents_count(self):
         response = requests.get(
             self.index_doc_count_api_uri, headers=self.headers, verify=False
