@@ -13,7 +13,7 @@ from .l2r_helper import grouper
 class azure_search_client:
     def __init__(self, service_name, endpoint, api_version, api_key, index_name):
         self.service_name = service_name
-        self.endpoint = endpoint
+        self.endpoint = endpoint.strip('/') + '/'
         self.api_version = api_version
         self.api_key = api_key
         self.index_name = index_name
