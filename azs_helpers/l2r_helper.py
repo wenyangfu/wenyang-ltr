@@ -7,7 +7,7 @@ from IPython.display import display, HTML
 from matplotlib import pyplot as plt
 from sklearn.preprocessing import minmax_scale, QuantileTransformer
 
-def compute_judgments_after_training(
+def scores_to_rankings(
     predictions, query_doc_counts, X_test, y_test, verbose=False
 ):
     """Given ranking scores from XGBoost and query group info,
