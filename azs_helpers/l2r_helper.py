@@ -5,6 +5,7 @@ import numpy as np
 import pandas as pd
 from IPython.display import display, HTML
 from matplotlib import pyplot as plt
+from sklearn.metrics import ndcg_score
 from sklearn.preprocessing import minmax_scale, QuantileTransformer
 
 def scores_to_rankings(
@@ -199,7 +200,14 @@ def get_range_ndcg(ndcgs, k_start, k_end):
         count = 0
         ndcg_sum = 0
         for ndcg_input in ndcgs:
-            current_ndcg = ndcg_at_k(ndcg_input, k)
+            # current_ndcg = ndcg_at_k(ndcg_input, k)
+            # Ground truth for each query always ranges from highest (can be up to 10) down to lowest (1)
+            # judgment value.
+            # sklearn's ndcg_score can score either a batch of queries or a single query at a time. Hence,
+            # it expects a shape of (n_samples, n_labels)
+            ground_truth_judgments = np.asarray([list(range(len(ndcg_input), 0, -1))])
+            predicted_scores = np.asarray([ndcg_input])
+            current_ndcg = ndcg_score(ground_truth_judgments, predicted_scores, k)
             # print(current_ndcg)
             ndcg_sum += current_ndcg
             # no point in using ranking results where all documents have a grade of zero
