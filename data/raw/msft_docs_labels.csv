@@ -202,7 +202,6 @@ filter,https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters,6
 filter,https://docs.microsoft.com/en-us/dax/filter-functions-dax,5
 filter,https://docs.microsoft.com/en-us/azure/data-factory/data-flow-filter,4
 filter,https://docs.microsoft.com/en-us/graph/query-parameters,3
-filter,https://docs.microsoft.com/en-us/previous-versions/ms530752(v%3Dvs.85),2
 filter,https://docs.microsoft.com/en-us/dotnet/core/testing/selective-unit-tests,1
 bitlocker,https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview,10
 bitlocker,https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-device-encryption-overview-windows-10,9
@@ -257,7 +256,6 @@ security,https://docs.microsoft.com/en-us/azure/security-center/security-center-
 security,https://docs.microsoft.com/en-us/partner-center/partner-security-requirements,7
 security,https://docs.microsoft.com/en-us/azure/security-center/,6
 security,https://docs.microsoft.com/en-us/azure/active-directory/user-help/security-info-setup-signin,5
-security,https://docs.microsoft.com/en-us/security-updates/securityadvisories/2013/2794220,4
 security,https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download,3
 security,https://docs.microsoft.com/en-us/microsoft-365/security/mtp/overview-security-center,2
 security,https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/,1
@@ -343,7 +341,6 @@ windows server 2016,https://docs.microsoft.com/en-us/windows-server/identity/ad-
 windows server 2016,https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys,5
 windows server 2016,https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/what-s-new-in-hyper-v-on-windows,4
 windows server 2016,https://docs.microsoft.com/en-us/windows-server/get-started/installation-and-upgrade,3
-windows server 2016,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj612867(v%3Dws.11),2
 windows server 2016,https://docs.microsoft.com/en-us/windows-server/networking/technologies/ipam/ipam-top,1
 delete,https://docs.microsoft.com/en-us/sql/t-sql/statements/delete-transact-sql,9
 delete,https://docs.microsoft.com/en-us/dynamics365/admin/delete-instance,6
@@ -524,14 +521,12 @@ Password,https://docs.microsoft.com/en-us/azure/active-directory/authentication/
 Password,https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-password-ban-bad-on-premises-deploy,2
 Password,https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-sspr-deployment,1
 search,https://docs.microsoft.com/en-us/deployoffice/microsoft-search-bing,9
-search,https://docs.microsoft.com/en-us/azure/search/,8
 search,https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/adding-search,7
 search,https://docs.microsoft.com/en-us/graph/api/driveitem-search,6
 search,https://docs.microsoft.com/en-us/dax/search-function-dax,5
 search,https://docs.microsoft.com/en-us/azure/kusto/query/searchoperator,4
 search,https://docs.microsoft.com/en-us/nuget/api/search-query-service-resource,3
 search,https://docs.microsoft.com/en-us/dynamics365/customer-service/search-knowledge-articles-csh,2
-search,https://docs.microsoft.com/en-us/azure/search/search-what-is-azure-search,1
 dashboard,https://docs.microsoft.com/en-us/azure/devops/report/dashboards/widget-catalog,10
 dashboard,https://docs.microsoft.com/en-us/power-bi/service-dashboards,9
 dashboard,https://docs.microsoft.com/en-us/power-bi/service-share-dashboards,8
@@ -638,7 +633,6 @@ loop,https://docs.microsoft.com/en-us/cpp/error-messages/tool-errors/vectorizer-
 group policy,https://docs.microsoft.com/en-us/windows/win32/srvnodes/group-policy,10
 group policy,https://docs.microsoft.com/en-us/previous-versions/windows/desktop/policy/group-policy-objects,9
 group policy,https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/deploy-windows-defender-application-control-policies-using-group-policy,8
-group policy,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831791(v%3Dws.11),7
 group policy,https://docs.microsoft.com/en-us/onedrive/use-group-policy,5
 group policy,https://docs.microsoft.com/en-us/deployedge/microsoft-edge-policies,4
 group policy,https://docs.microsoft.com/en-us/deployoffice/teams-install,3
@@ -746,7 +740,6 @@ language,https://docs.microsoft.com/en-us/typography/opentype/spec/languagetags,
 language,https://docs.microsoft.com/en-us/sql/t-sql/statements/set-language-transact-sql,9
 language,https://docs.microsoft.com/en-us/dotnet/api/system.windows.frameworkelement.language,8
 language,https://docs.microsoft.com/en-us/sql/t-sql/functions/language-transact-sql,7
-language,https://docs.microsoft.com/en-us/windows/win32/msi/language,6
 language,https://docs.microsoft.com/en-us/powerquery-m/power-query-m-language-specification,5
 language,https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/,4
 language,https://docs.microsoft.com/en-us/deployoffice/office2016/customize-language-setup-and-settings-for-office-2016,3
@@ -812,7 +805,6 @@ wpf,https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/wpf-architect
 wpf,https://docs.microsoft.com/en-us/dotnet/desktop-wpf/overview/,2
 wpf,https://docs.microsoft.com/en-us/xamarin/xamarin-forms/platform/other/wpf,1
 html,https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-html,8
-html,https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.webviewpage.html,5
 html,https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/views/creating-custom-html-helpers-cs,4
 html,https://docs.microsoft.com/en-us/office/dev/add-ins/onenote/onenote-add-ins-page-content,3
 html,https://docs.microsoft.com/en-us/aspnet/core/blazor/,2
@@ -855,13 +847,11 @@ combobox,https://docs.microsoft.com/en-us/windows/win32/controls/bumper-combobox
 combobox,https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.combobox.staysopenonedit,1
 CreateFile,https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-createfilea,10
 CreateFile,https://docs.microsoft.com/en-us/windows/win32/fileio/opening-a-file-for-reading-or-writing,9
-CreateFile,https://docs.microsoft.com/en-us/previous-versions/ms959950(v%3Dmsdn.10),7
 CreateFile,https://docs.microsoft.com/en-us/windows/win32/ipc/named-pipe-client,6
 CreateFile,https://docs.microsoft.com/en-us/windows/win32/devnotes/-createfile,5
 CreateFile,https://docs.microsoft.com/en-us/dotnet/api/microsoft.azure.datalake.store.adlsclient.createfile,4
 CreateFile,https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpepnp/0f2fef8b-ef79-40ff-8314-5f56787e6d9d,3
 CreateFile,https://docs.microsoft.com/en-us/dotnet/api/system.io.isolatedstorage.isolatedstoragefile.createfile,2
-CreateFile,https://docs.microsoft.com/en-us/dotnet/api/foundation.nsfilemanager.createfile,1
 visual basic,https://docs.microsoft.com/en-us/dotnet/visual-basic/,10
 visual basic,https://docs.microsoft.com/en-us/dotnet/visual-basic/getting-started/,9
 visual basic,https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/with-end-with-statement,8
@@ -916,7 +906,6 @@ contains,https://docs.microsoft.com/en-us/dotnet/api/system.linq.enumerable.cont
 contains,https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference,8
 contains,https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.hashset-1.contains,6
 contains,https://docs.microsoft.com/en-us/sql/t-sql/queries/contains-transact-sql,5
-contains,https://docs.microsoft.com/en-us/dotnet/api/microsoft.exchange.webservices.data.dictionaryproperty-2.contains,4
 contains,https://docs.microsoft.com/en-us/dotnet/api/system.data.objects.dataclasses.entitycollection-1.contains,3
 contains,https://docs.microsoft.com/en-us/dax/contains-function-dax,2
 contains,https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.keyedcollection-2.contains,1
@@ -926,7 +915,6 @@ login,https://docs.microsoft.com/en-us/azure-sphere/reference/azsphere-login,8
 login,https://docs.microsoft.com/en-us/cli/azure/reference-index,7
 login,https://docs.microsoft.com/en-us/sql/t-sql/statements/create-login-transact-sql,6
 login,https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/create-a-login,5
-login,https://docs.microsoft.com/en-us/openspecs/exchange_server_protocols/ms-xlogin/e410ec76-ab45-47fb-a49c-b557d99e671f,4
 login,https://docs.microsoft.com/en-us/gaming/playfab/features/authentication/login/login-basics-best-practices,3
 login,https://docs.microsoft.com/en-us/sql/master-data-services/database-logins-users-and-roles-master-data-services,2
 login,https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/operations/ad-fs-prompt-login,1
@@ -1171,7 +1159,6 @@ azure fundamentals,https://docs.microsoft.com/en-us/learn/azure/,6
 azure fundamentals,https://docs.microsoft.com/en-us/azure/security/fundamentals/,5
 azure fundamentals,https://docs.microsoft.com/en-us/learn/,4
 azure fundamentals,https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t00,3
-azure fundamentals,https://docs.microsoft.com/en-us/learn/certifications/posts/our-new-fundamentals-certification-program-launches-with-azure-and-m365,1
 identity,https://docs.microsoft.com/en-us/sql/t-sql/statements/create-table-transact-sql-identity-property,10
 identity,https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity,9
 identity,https://docs.microsoft.com/en-us/aspnet/identity/overview/,8
@@ -1218,10 +1205,8 @@ alter table,https://docs.microsoft.com/en-us/sql/relational-databases/tables/cha
 alter table,https://docs.microsoft.com/en-us/sql/t-sql/statements/alter-index-transact-sql,2
 alter table,https://docs.microsoft.com/en-us/sql/relational-databases/tables/creating-a-system-versioned-temporal-table,1
 GenericError.htm,https://docs.microsoft.com/en-us/iis/configuration/system.webserver/httperrors/,9
-GenericError.htm,https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cer2/5a8b981a-8b77-4c19-b76b-42b85256cae3,7
 GenericError.htm,https://docs.microsoft.com/en-us/iis/troubleshoot/diagnosing-http-errors/how-to-use-http-detailed-errors-in-iis,6
 GenericError.htm,https://docs.microsoft.com/en-us/azure/application-gateway/custom-error,5
-GenericError.htm,https://docs.microsoft.com/en-us/dynamics365/resources/readme.htm,2
 group,https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview,10
 group,https://docs.microsoft.com/en-us/graph/api/resources/group,9
 group,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/users-groups/groups,8
@@ -1277,7 +1262,6 @@ color,https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.color,8
 color,https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/functions/function-colors,7
 color,https://docs.microsoft.com/en-us/dotnet/api/system.windows.media.colors,6
 color,https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/colors,5
-color,https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.boxview.color,4
 color,https://docs.microsoft.com/en-us/dotnet/api/system.console.resetcolor,3
 color,https://docs.microsoft.com/en-us/xamarin/essentials/color-converters,2
 color,https://docs.microsoft.com/en-us/dotnet/api/skiasharp.views.forms.extensions.toskcolor,1
@@ -1287,7 +1271,6 @@ windows 8.1 release notes,https://docs.microsoft.com/en-us/visualstudio/releasen
 windows 8.1 release notes,https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies,5
 windows 8.1 release notes,https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2013-update2-vs,4
 windows 8.1 release notes,https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2019-mac-relnotes-v8.1,3
-windows 8.1 release notes,https://docs.microsoft.com/en-us/windows/uwp/monetize/release-notes-for-the-advertising-libraries,2
 windows 8.1 release notes,https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2013-update2-build2014-vs,1
 blazor,https://docs.microsoft.com/en-us/aspnet/core/blazor/,10
 blazor,https://docs.microsoft.com/en-us/aspnet/core/blazor/hosting-models,9
@@ -1391,7 +1374,6 @@ linq,https://docs.microsoft.com/en-us/dotnet/csharp/linq/linq-in-csharp,5
 linq,https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/working-with-linq,4
 linq,https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/linq/,3
 linq,https://docs.microsoft.com/en-us/dotnet/csharp/linq/query-expression-basics,1
-location,https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.outputcacheattribute.location,10
 location,https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/functions/signals,9
 location,https://docs.microsoft.com/en-us/dotnet/api/system.reflection.assembly.location,8
 location,https://docs.microsoft.com/en-us/partner-center/manage-locations,7
@@ -1405,7 +1387,6 @@ camera,https://docs.microsoft.com/en-us/windows/uwp/audio-video-camera/camera,10
 camera,https://docs.microsoft.com/en-us/microsoftteams/rooms/content-camera,9
 camera,https://docs.microsoft.com/en-us/windows/uwp/audio-video-camera/connect-to-remote-cameras,8
 camera,https://docs.microsoft.com/en-us/windows/mixed-reality/locatable-camera,7
-camera,https://docs.microsoft.com/en-us/dotnet/api/mapkit.mkmapcamera.camera,6
 camera,https://docs.microsoft.com/en-us/windows/client-management/mdm/policy-csp-camera,5
 camera,https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/controls/control-camera,4
 camera,https://docs.microsoft.com/en-us/windows/mixed-reality/camera-in-unity,3
@@ -1503,7 +1484,6 @@ cache,https://docs.microsoft.com/en-us/azure/app-service/overview-local-cache,7
 cache,https://docs.microsoft.com/en-us/fslogix/cloud-cache-resiliency-availability-cncpt,6
 cache,https://docs.microsoft.com/en-us/fslogix/configure-cloud-cache-tutorial,5
 cache,https://docs.microsoft.com/en-us/aspnet/core/performance/caching/memory,4
-cache,https://docs.microsoft.com/en-us/dotnet/api/microsoft.ml.dataoperationscatalog.cache,3
 cache,https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/,2
 cache,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/cache-dbio,1
 token,https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/-token,10
@@ -1540,11 +1520,9 @@ robocopy,https://docs.microsoft.com/en-us/iis/media/transform-manager/chaining-t
 robocopy,https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/deploy/windows-machine-file-copy,7
 robocopy,https://docs.microsoft.com/en-us/windows-server/administration/performance-tuning/role/file-server/smb-file-server,5
 robocopy,https://docs.microsoft.com/en-us/windows-server-essentials/migrate/step-4--move-settings-and-data-to-the-destination-server-for-windows-server-essentials-migration,4
-robocopy,https://docs.microsoft.com/en-us/microsoft-desktop-optimization-pack/uev-v2/migrating-ue-v-2x-settings-packages-both-uevv2,3
 robocopy,https://docs.microsoft.com/en-us/windows-server-essentials/migrate/move-windows-sbs-2011-standard-to-the-destination-server-for-migration,1
 thread,https://docs.microsoft.com/en-us/dotnet/api/system.threading.thread,10
 thread,https://docs.microsoft.com/en-us/cpp/standard-library/thread-class,9
-thread,https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/thread-objects,8
 thread,https://docs.microsoft.com/en-us/dotnet/standard/base-types/thread-safety-in-regular-expressions,7
 thread,https://docs.microsoft.com/en-us/dotnet/api/system.threading.thread.getdomain,6
 thread,https://docs.microsoft.com/en-us/windows/win32/winstation/thread-connection-to-a-desktop,5
@@ -1568,7 +1546,6 @@ font,https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.autoscalem
 font,https://docs.microsoft.com/en-us/office/vba/api/excel.range.font,4
 font,https://docs.microsoft.com/en-us/typography/,3
 font,https://docs.microsoft.com/en-us/windows/security/threat-protection/block-untrusted-fonts-in-enterprise,2
-font,https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.toolstripdropdown.font,1
 microsoft project,https://docs.microsoft.com/en-us/project/,10
 microsoft project,https://docs.microsoft.com/en-us/office365/servicedescriptions/project-online-service-description/project-online-service-description,9
 microsoft project,https://docs.microsoft.com/en-us/power-bi/service-connect-to-project-online,8
@@ -1689,7 +1666,6 @@ business central,https://docs.microsoft.com/en-us/learn/modules/dynamics-365-bus
 comment,https://docs.microsoft.com/en-us/scripting/javascript/misc/unterminated-comment,10
 comment,https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/xmldoc/,9
 comment,https://docs.microsoft.com/en-us/azure/devops/project/wiki/add-comments-wiki,8
-comment,https://docs.microsoft.com/en-us/u-sql/language-elements/slash-star-comment,7
 comment,https://docs.microsoft.com/en-us/cpp/c-language/c-comments,6
 comment,https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-gpreg/70b21e89-4398-4e73-85a8-c4606a8401c0,5
 comment,https://docs.microsoft.com/en-us/cpp/preprocessor/comment-c-cpp,4
@@ -1732,7 +1708,6 @@ checkbox,https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patter
 checkbox,https://docs.microsoft.com/en-us/uwp/api/windows.ui.xaml.controls.checkbox,4
 checkbox,https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.html.inputextensions.checkbox,3
 checkbox,https://docs.microsoft.com/en-us/office/vba/api/access.checkbox.gotfocus,2
-checkbox,https://docs.microsoft.com/en-us/office/vba/api/outlook.checkbox.accelerator,1
 distinct,https://docs.microsoft.com/en-us/dotnet/api/system.linq.enumerable.distinct,10
 distinct,https://docs.microsoft.com/en-us/dax/distinct-function-dax,9
 distinct,https://docs.microsoft.com/en-us/azure/kusto/query/distinctoperator,8
@@ -1745,13 +1720,11 @@ distinct,https://docs.microsoft.com/en-us/powerquery-m/list-distinct,2
 distinct,https://docs.microsoft.com/en-us/sql/mdx/distinct-mdx,1
 createfile,https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-createfilea,10
 createfile,https://docs.microsoft.com/en-us/windows/win32/fileio/opening-a-file-for-reading-or-writing,9
-createfile,https://docs.microsoft.com/en-us/previous-versions/ms959950(v%3Dmsdn.10),7
 createfile,https://docs.microsoft.com/en-us/windows/win32/ipc/named-pipe-client,6
 createfile,https://docs.microsoft.com/en-us/windows/win32/devnotes/-createfile,5
 createfile,https://docs.microsoft.com/en-us/dotnet/api/microsoft.azure.datalake.store.adlsclient.createfile,4
 createfile,https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpepnp/0f2fef8b-ef79-40ff-8314-5f56787e6d9d,3
 createfile,https://docs.microsoft.com/en-us/dotnet/api/system.io.isolatedstorage.isolatedstoragefile.createfile,2
-createfile,https://docs.microsoft.com/en-us/dotnet/api/foundation.nsfilemanager.createfile,1
 csv,https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/export-csv,10
 csv,https://docs.microsoft.com/en-us/powerquery-m/csv-document,9
 csv,https://docs.microsoft.com/en-us/schooldatasync/school-data-sync-format-csv-files-for-sds,8
@@ -1817,7 +1790,6 @@ enum,https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-
 enum,https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.keys,5
 enum,https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.enumconverter,4
 enum,https://docs.microsoft.com/en-us/dotnet/api/system.enum.isdefined,3
-enum,https://docs.microsoft.com/en-us/windows/win32/properties/propdesc-schema-enum,2
 enum,https://docs.microsoft.com/en-us/ef/ef6/modeling/designer/data-types/enums,1
 find,https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/find,10
 find,https://docs.microsoft.com/en-us/dax/find-function-dax,9
@@ -1865,7 +1837,6 @@ printf,https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/-print
 printf,https://docs.microsoft.com/en-us/cpp/c-runtime-library/printf-p-positional-parameters,4
 printf,https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/printf-s-printf-s-l-wprintf-s-wprintf-s-l,3
 printf,https://docs.microsoft.com/en-us/cpp/error-messages/compiler-warnings/c4477,2
-printf,https://docs.microsoft.com/en-us/dotnet/api/java.io.printstream.printf,1
 listview,https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.listview,10
 listview,https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/listview/,9
 listview,https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.listview,8
@@ -1968,7 +1939,6 @@ query,https://docs.microsoft.com/en-us/windows-server/administration/windows-com
 404,https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-troubleshoot-blocking-cross-origin,6
 404,https://docs.microsoft.com/en-us/iis/extensions/advanced-logging-module/advanced-logging-for-iis-log-filtering,5
 404,https://docs.microsoft.com/en-us/office/troubleshoot/error-messages/web-page-missing-file-error,4
-404,https://docs.microsoft.com/en-us/dotnet/framework/wcf/diagnostics/etw/404-resumesignpostevent,3
 404,https://docs.microsoft.com/en-us/iis/troubleshoot/diagnosing-http-errors/how-to-use-http-detailed-errors-in-iis,2
 404,https://docs.microsoft.com/en-us/aspnet/web-api/overview/error-handling/exception-handling,1
 chat,https://docs.microsoft.com/en-us/microsoftteams/native-chat-for-external-users,10
@@ -2110,10 +2080,7 @@ httpclient,https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/htt
 CreateProcess,https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createprocessa,10
 CreateProcess,https://docs.microsoft.com/en-us/windows/win32/procthread/creating-a-child-process-with-redirected-input-and-output,9
 CreateProcess,https://docs.microsoft.com/en-us/windows/win32/procthread/creating-processes,8
-CreateProcess,https://docs.microsoft.com/en-us/previous-versions/ms939168(v%3Dmsdn.10),7
-CreateProcess,https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/dbgeng/nf-dbgeng-idebugclient-createprocess,6
 CreateProcess,https://docs.microsoft.com/en-us/windows/win32/procthread/changing-environment-variables,5
-CreateProcess,https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/dbgeng/nf-dbgeng-idebugeventcallbacks-createprocess,3
 CreateProcess,https://docs.microsoft.com/en-us/windows/win32/procthread/process-creation-flags,2
 CreateProcess,https://docs.microsoft.com/en-us/windows/win32/procthread/setting-window-properties-using-startupinfo,1
 if statement,https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/if-else,9
@@ -2179,7 +2146,6 @@ java,https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-fir
 java,https://docs.microsoft.com/en-us/sql/language-extensions/how-to/extensibility-sdk-java-sql-server,5
 java,https://docs.microsoft.com/en-us/azure/azure-monitor/app/java-get-started,4
 java,https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-java-how-to-use-queues,3
-java,https://docs.microsoft.com/en-us/azure/search/search-get-started-java,2
 java,https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-get-started-java-sdk,1
 append,https://docs.microsoft.com/en-us/dotnet/api/system.linq.enumerable.append,10
 append,https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder.append,9
@@ -2195,7 +2161,6 @@ notification,https://docs.microsoft.com/en-us/azure/notification-hubs/notificati
 notification,https://docs.microsoft.com/en-us/azure/notification-hubs/create-notification-hub-portal,9
 notification,https://docs.microsoft.com/en-us/azure/notification-hubs/push-notification-updates-ios-13,8
 notification,https://docs.microsoft.com/en-us/intune/remote-actions/custom-notifications,7
-notification,https://docs.microsoft.com/en-us/office/client-developer/outlook/mapi/notification,6
 notification,https://docs.microsoft.com/en-us/connectors/flowpush/,5
 notification,https://docs.microsoft.com/en-us/sql/t-sql/statements/drop-event-notification-transact-sql,4
 notification,https://docs.microsoft.com/en-us/dynamics-nav/function-notificationaddaction,3
@@ -2240,7 +2205,6 @@ wsus,https://docs.microsoft.com/en-us/windows-server/administration/windows-serv
 wsus,https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/plan/plan-your-wsus-deployment,9
 wsus,https://docs.microsoft.com/en-us/windows/deployment/update/waas-manage-updates-wsus,8
 wsus,https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/deploy/deploy-windows-server-update-services,7
-wsus,https://docs.microsoft.com/en-us/previous-versions/windows/desktop/ms744624(v%3Dvs.85),6
 wsus,https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/deploy/1-install-the-wsus-server-role,5
 wsus,https://docs.microsoft.com/en-us/configmgr/protect/deploy-use/endpoint-definitions-wsus,1
 async,https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/async,10
@@ -2316,14 +2280,12 @@ union,https://docs.microsoft.com/en-us/azure/kusto/query/unionoperator,5
 union,https://docs.microsoft.com/en-us/dotnet/api/system.linq.queryable.union,4
 union,https://docs.microsoft.com/en-us/sql/mdx/union-mdx,3
 union,https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/return-the-set-union-of-two-sequences,2
-union,https://docs.microsoft.com/en-us/dotnet/api/system.collections.immutable.immutablehashset-1.union,1
 parameters,https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-parameters,10
 parameters,https://docs.microsoft.com/en-us/azure/devops/pipelines/process/templates,9
 parameters,https://docs.microsoft.com/en-us/sql/relational-databases/system-information-schema-views/parameters-transact-sql,8
 parameters,https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-syntax,7
 parameters,https://docs.microsoft.com/en-us/ef/core/modeling/constructors,6
 parameters,https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/passing-parameters,5
-parameters,https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.async.asyncmanager.parameters,4
 parameters,https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_advanced_parameters,3
 parameters,https://docs.microsoft.com/en-us/visualstudio/install/use-command-line-parameters-to-install-visual-studio,2
 parameters,https://docs.microsoft.com/en-us/graph/query-parameters,1
@@ -2459,7 +2421,6 @@ dataset,https://docs.microsoft.com/en-us/power-bi/service-datasets-promote,3
 dataset,https://docs.microsoft.com/en-us/power-bi/service-datasets-certify,2
 dataset,https://docs.microsoft.com/en-us/power-bi/service-datasets-discover-across-workspaces,1
 evaluate,https://docs.microsoft.com/en-us/dotnet/api/microsoft.ml.binaryclassificationcatalog.evaluate,10
-evaluate,https://docs.microsoft.com/en-us/dotnet/api/microsoft.ml.recommendationcatalog.evaluate,9
 evaluate,https://docs.microsoft.com/en-us/microsoftteams/3-envision-evaluate-my-environment,8
 evaluate,https://docs.microsoft.com/en-us/office/vba/api/excel.application.evaluate,7
 evaluate,https://docs.microsoft.com/en-us/powerquery-m/expression-evaluate,6
@@ -2522,7 +2483,6 @@ iis,https://docs.microsoft.com/en-us/iis/get-started/whats-new-in-iis-8/iis-80-s
 iis,https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/,4
 iis,https://docs.microsoft.com/en-us/iis/manage/configuring-security/how-to-set-up-ssl-on-iis,3
 iis,https://docs.microsoft.com/en-us/iis/get-started/whats-new-in-iis-10-version-1709/new-features-introduced-in-iis-10-1709,2
-iis,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831725(v%3Dws.11),1
 max,https://docs.microsoft.com/en-us/sql/t-sql/functions/max-transact-sql,9
 max,https://docs.microsoft.com/en-us/dotnet/api/system.linq.enumerable.max,8
 max,https://docs.microsoft.com/en-us/dotnet/api/system.linq.queryable.max,7
@@ -2545,7 +2505,6 @@ file,https://docs.microsoft.com/en-us/stream/input-audio-video-formats-codecs,1
 storage,https://docs.microsoft.com/en-us/azure/storage/,9
 storage,https://docs.microsoft.com/en-us/windows-server/storage/storage,8
 storage,https://docs.microsoft.com/en-us/powershell/module/storage/,7
-storage,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831739(v%3Dws.11),6
 storage,https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create,5
 storage,https://docs.microsoft.com/en-us/windows-server/storage/storage-migration-service/overview,4
 storage,https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/,3
@@ -2580,7 +2539,6 @@ select case,https://docs.microsoft.com/en-us/office/vba/language/reference/user-
 select case,https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/case-else-outside-select-case,4
 select case,https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/select-case-without-end-select,3
 select case,https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/case-without-select-case,2
-select case,https://docs.microsoft.com/en-us/dotnet/visual-basic/misc/bc30095,1
 variable,https://docs.microsoft.com/en-us/azure/devops/pipelines/process/variables,10
 variable,https://docs.microsoft.com/en-us/azure/devops/pipelines/library/variable-groups,9
 variable,https://docs.microsoft.com/en-us/azure/devops/pipelines/release/variables,8
@@ -2654,7 +2612,6 @@ share,https://docs.microsoft.com/en-us/visualstudio/liveshare/quickstart/share,5
 share,https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode,4
 share,https://docs.microsoft.com/en-us/power-bi/service-datasets-share,3
 share,https://docs.microsoft.com/en-us/power-automate/create-team-flows,2
-share,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh750728(v%3Dws.11),1
 dim,https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/dim-statement,10
 dim,https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/dim-statement,9
 dim,https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/operators/new-operator,8
@@ -2702,7 +2659,6 @@ domain,https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-con
 domain,https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-reference-prebuilt-domains,2
 domain,https://docs.microsoft.com/en-us/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar,1
 WaitForSingleObject,https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-waitforsingleobject,10
-WaitForSingleObject,https://docs.microsoft.com/en-us/previous-versions/ms915517(v%3Dmsdn.10),9
 WaitForSingleObject,https://docs.microsoft.com/en-us/windows/win32/sync/using-event-objects,8
 WaitForSingleObject,https://docs.microsoft.com/en-us/windows/win32/sync/using-semaphore-objects,7
 WaitForSingleObject,https://docs.microsoft.com/en-us/windows/win32/sync/using-waitable-timer-objects,6
@@ -2834,7 +2790,6 @@ export to excel,https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visua
 export to excel,https://docs.microsoft.com/en-us/sql/relational-databases/import-export/import-data-from-excel-to-sql,2
 export to excel,https://docs.microsoft.com/en-us/powerapps/user/export-excel-static-worksheet,1
 createwindow,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-createwindowa,10
-createwindow,https://docs.microsoft.com/en-us/previous-versions/ms959988(v%3Dmsdn.10),9
 createwindow,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-createwindowexa,8
 createwindow,https://docs.microsoft.com/en-us/windows/win32/learnwin32/creating-a-window,7
 createwindow,https://docs.microsoft.com/en-us/windows/win32/controls/create-a-button,6
@@ -2910,15 +2865,11 @@ url,https://docs.microsoft.com/en-us/iis/extensions/url-rewrite-module/url-rewri
 url,https://docs.microsoft.com/en-us/iis/extensions/url-rewrite-module/using-failed-request-tracing-to-trace-rewrite-rules,2
 url,https://docs.microsoft.com/en-us/iis/extensions/url-rewrite-module/reverse-proxy-with-url-rewrite-v2-and-application-request-routing,1
 CreateThread,https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createthread,10
-CreateThread,https://docs.microsoft.com/en-us/previous-versions/ms939170(v%3Dmsdn.10),9
 CreateThread,https://docs.microsoft.com/en-us/windows/win32/procthread/creating-threads,8
 CreateThread,https://docs.microsoft.com/en-us/windows/win32/api/ntsecpkg/nc-ntsecpkg-lsa_create_thread,7
-CreateThread,https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/dbgeng/nf-dbgeng-idebugeventcallbackswide-createthread,6
 CreateThread,https://docs.microsoft.com/en-us/cpp/mfc/reference/cwinthread-class,5
 CreateThread,https://docs.microsoft.com/en-us/windows/win32/sync/using-mutex-objects,4
-CreateThread,https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/debugging/icordebugmanagedcallback-createthread-method,3
 CreateThread,https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-terminatethread,2
-CreateThread,https://docs.microsoft.com/en-us/windows/win32/directshow/cmsgthread-createthread,1
 roles,https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles,10
 roles,https://docs.microsoft.com/en-us/power-platform/admin/database-security,9
 roles,https://docs.microsoft.com/en-us/power-bi/service-new-workspaces,8
@@ -2999,7 +2950,6 @@ inputbox,https://docs.microsoft.com/en-us/office/vba/api/excel.application.input
 inputbox,https://docs.microsoft.com/en-us/dotnet/api/microsoft.office.interop.excel._application.inputbox,8
 inputbox,https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualbasic.interaction.inputbox,6
 inputbox,https://docs.microsoft.com/en-us/openspecs/microsoft_general_purpose_programming_languages/ms-vbal/64b763ff-9f5f-43cd-b247-c75557e51989,5
-inputbox,https://docs.microsoft.com/en-us/dotnet/api/microsoft.office.interop.excel.applicationclass.inputbox,4
 inputbox,https://docs.microsoft.com/en-us/powershell/scripting/samples/creating-a-custom-input-box,3
 winmain,https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-winmain,10
 winmain,https://docs.microsoft.com/en-us/windows/win32/learnwin32/winmain--the-application-entry-point,9
@@ -3117,19 +3067,15 @@ sql server management studio,https://docs.microsoft.com/en-us/sql/azure-data-stu
 isnull,https://docs.microsoft.com/en-us/sql/t-sql/functions/isnull-transact-sql,10
 isnull,https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/isnull-function,9
 isnull,https://docs.microsoft.com/en-us/sharepoint/dev/schema/isnull-element-query,8
-isnull,https://docs.microsoft.com/en-us/dotnet/api/org.json.jsonobject.isnull,7
 isnull,https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualstudio.testtools.unittesting.assert.isnull,6
-isnull,https://docs.microsoft.com/en-us/dotnet/api/android.test.mock.mockcursor.isnull,5
 isnull,https://docs.microsoft.com/en-us/dotnet/api/system.data.datarow.isnull,4
 isnull,https://docs.microsoft.com/en-us/azure/kusto/query/isnullfunction,3
-isnull,https://docs.microsoft.com/en-us/dotnet/api/system.data.sqltypes.sqlint32.isnull,2
 isnull,https://docs.microsoft.com/en-us/sql/t-sql/language-elements/coalesce-transact-sql,1
 timezone,https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-timezone,8
 timezone,https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/set-timezone,7
 timezone,https://docs.microsoft.com/en-us/dotnet/api/system.timezone,6
 timezone,https://docs.microsoft.com/en-us/windows-hardware/customize/desktop/unattend/microsoft-windows-shell-setup-timezone,4
 timezone,https://docs.microsoft.com/en-us/sql/t-sql/queries/at-time-zone-transact-sql,2
-timezone,https://docs.microsoft.com/en-us/dotnet/api/mapkit.mkmapitem.timezone,1
 message,https://docs.microsoft.com/en-us/windows/release-information/windows-message-center,9
 message,https://docs.microsoft.com/en-us/graph/api/resources/message,8
 message,https://docs.microsoft.com/en-us/dotnet/api/system.exception.message,7
@@ -3177,7 +3123,6 @@ namespace,https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/nam
 namespace,https://docs.microsoft.com/en-us/dotnet/api/system.drawing.printing,3
 namespace,https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/namespaces,2
 namespace,https://docs.microsoft.com/en-us/windows/win32/shell/namespace-intro,1
-zip,https://docs.microsoft.com/en-us/dotnet/api/system.linq.enumerable.zip?view=netframework-4.8,10
 zip,https://docs.microsoft.com/en-us/azure/azure-functions/deployment-zip-push,9
 zip,https://docs.microsoft.com/en-us/powerquery-m/list-zip,8
 zip,https://docs.microsoft.com/en-us/azure/app-service/deploy-zip,7
@@ -3240,7 +3185,6 @@ if else,https://docs.microsoft.com/en-us/cpp/cpp/if-else-statement-cpp,2
 if else,https://docs.microsoft.com/en-us/sql/t-sql/language-elements/else-if-else-transact-sql,1
 left,https://docs.microsoft.com/en-us/sql/t-sql/functions/left-transact-sql,10
 left,https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/left-function,9
-left,https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.thickness.left,8
 left,https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/functions/function-left-mid-right,6
 left,https://docs.microsoft.com/en-us/dax/left-function-dax,4
 left,https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/shift-left-make-testing-fast-reliable,3
@@ -3260,10 +3204,8 @@ wait,https://docs.microsoft.com/en-us/dotnet/api/system.threading.manualreseteve
 wait,https://docs.microsoft.com/en-us/windows/win32/api/d3d12/nf-d3d12-id3d12commandqueue-wait,8
 wait,https://docs.microsoft.com/en-us/office/vba/api/excel.application.wait,7
 wait,https://docs.microsoft.com/en-us/dotnet/api/system.threading.countdownevent.wait,6
-wait,https://docs.microsoft.com/en-us/windows/win32/api/objidlbase/nf-objidlbase-isynchronize-wait,5
 wait,https://docs.microsoft.com/en-us/powershell/module/az.recoveryservices/wait-azrecoveryservicesbackupjob,4
 wait,https://docs.microsoft.com/en-us/sql/relational-databases/system-catalog-views/sys-query-store-wait-stats-transact-sql,3
-wait,https://docs.microsoft.com/en-us/dotnet/api/microsoft.sqlserver.management.smo.backuprestorebase.wait,2
 wait,https://docs.microsoft.com/en-us/dotnet/api/system.threading.semaphoreslim.wait,1
 google,https://docs.microsoft.com/en-us/azure/app-service/configure-authentication-provider-google,10
 google,https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/google-logins,9
@@ -3317,7 +3259,6 @@ contact,https://docs.microsoft.com/en-us/graph/api/resources/contact,10
 contact,https://docs.microsoft.com/en-us/office365/admin/contact-support-for-business-products,9
 contact,https://docs.microsoft.com/en-us/exchange/recipients-in-exchange-online/manage-mail-contacts,8
 contact,https://docs.microsoft.com/en-us/uwp/api/windows.applicationmodel.contacts.contact,7
-contact,https://docs.microsoft.com/en-us/exchange/client-developer/web-service-reference/contact-contacttype,6
 contact,https://docs.microsoft.com/en-us/power-bi/service-item-contact,5
 contact,https://docs.microsoft.com/en-us/azure/security-center/security-center-provide-security-contact-details,3
 contact,https://docs.microsoft.com/en-us/office365/admin/manage/change-contact-preferences,2
@@ -3370,7 +3311,6 @@ datepart,https://docs.microsoft.com/en-us/sql/t-sql/functions/dateadd-transact-s
 datepart,https://docs.microsoft.com/en-us/sql/t-sql/functions/datename-transact-sql,4
 datepart,https://docs.microsoft.com/en-us/dotnet/api/system.data.objects.sqlclient.sqlfunctions.datepart,3
 datepart,https://docs.microsoft.com/en-us/office/client-developer/access/datepart-function-access-custom-web-app,2
-datepart,https://docs.microsoft.com/en-us/dotnet/api/system.data.entity.sqlservercompact.sqlcefunctions.datepart,1
 dateadd,https://docs.microsoft.com/en-us/sql/t-sql/functions/dateadd-transact-sql,10
 dateadd,https://docs.microsoft.com/en-us/dax/dateadd-function-dax,9
 dateadd,https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/dateadd-function,8
@@ -3393,15 +3333,12 @@ power apps,https://docs.microsoft.com/en-us/learn/certifications/exams/mb-400,1
 GetLastError,https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror,10
 GetLastError,https://docs.microsoft.com/en-us/windows/win32/debug/system-error-codes--0-499-,9
 GetLastError,https://docs.microsoft.com/en-us/windows/win32/debug/retrieving-the-last-error-code,8
-GetLastError,https://docs.microsoft.com/en-us/windows/win32/api/d3d11shader/nf-d3d11shader-id3d11functionlinkinggraph-getlasterror,7
 GetLastError,https://docs.microsoft.com/en-us/dotnet/api/system.web.httpserverutility.getlasterror,6
 GetLastError,https://docs.microsoft.com/en-us/visualstudio/code-quality/ca1404,5
-GetLastError,https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/sti/nf-sti-istidevice-getlasterror,3
 dynamic,https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/using-type-dynamic,10
 dynamic,https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types,9
 dynamic,https://docs.microsoft.com/en-us/microsoftteams/configure-dynamic-emergency-calling,8
 dynamic,https://docs.microsoft.com/en-us/archive/msdn-magazine/2011/february/msdn-magazine-dynamic-net-understanding-the-dynamic-keyword-in-csharp-4,7
-dynamic,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831766(v%3Dws.11),6
 dynamic,https://docs.microsoft.com/en-us/dynamics365/,5
 dynamic,https://docs.microsoft.com/en-us/sql/relational-databases/security/dynamic-data-masking,4
 dynamic,https://docs.microsoft.com/en-us/windows/security/identity-protection/access-control/dynamic-access-control,3
@@ -3429,9 +3366,6 @@ stored procedure,https://docs.microsoft.com/en-us/sql/relational-databases/store
 stored procedure,https://docs.microsoft.com/en-us/sql/relational-databases/tutorial-signing-stored-procedures-with-a-certificate,1
 dhcp,https://docs.microsoft.com/en-us/windows-server/networking/technologies/dhcp/dhcp-top,10
 dhcp,https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/use/manage-servers,8
-dhcp,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn338976(v%3Dws.11),5
-dhcp,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn495425(v%3Dws.11),3
-dhcp,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn338981(v%3Dws.11),2
 dhcp,https://docs.microsoft.com/en-us/powershell/module/dhcpserver/,1
 kinect,https://docs.microsoft.com/en-us/azure/kinect-dk/,10
 kinect,https://docs.microsoft.com/en-us/azure/kinect-dk/hardware-specification,9
@@ -3462,7 +3396,6 @@ IIS,https://docs.microsoft.com/en-us/iis/get-started/whats-new-in-iis-8/iis-80-s
 IIS,https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/,4
 IIS,https://docs.microsoft.com/en-us/iis/manage/configuring-security/how-to-set-up-ssl-on-iis,3
 IIS,https://docs.microsoft.com/en-us/iis/get-started/whats-new-in-iis-10-version-1709/new-features-introduced-in-iis-10-1709,2
-IIS,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831725(v%3Dws.11),1
 log,https://docs.microsoft.com/en-us/iis/troubleshoot/using-failed-request-tracing/troubleshooting-failed-requests-using-tracing-in-iis,9
 log,https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/log--sm4---asm-,8
 log,https://docs.microsoft.com/en-us/fslogix/logging-diagnostics-reference,7
@@ -3473,7 +3406,6 @@ log,https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/vie
 log,https://docs.microsoft.com/en-us/visualstudio/ide/reference/log-devenv-exe,2
 log,https://docs.microsoft.com/en-us/data-integration/gateway/service-gateway-log-files,1
 CreateWindowEx,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-createwindowexa,10
-CreateWindowEx,https://docs.microsoft.com/en-us/previous-versions/ms960010(v%3Dmsdn.10),9
 CreateWindowEx,https://docs.microsoft.com/en-us/windows/win32/learnwin32/creating-a-window,8
 CreateWindowEx,https://docs.microsoft.com/en-us/windows/win32/controls/create-scroll-bars,6
 CreateWindowEx,https://docs.microsoft.com/en-us/windows/win32/controls/create-toolbars,5
@@ -3532,8 +3464,6 @@ configuration,https://docs.microsoft.com/en-us/configmgr/core/understand/introdu
 configuration,https://docs.microsoft.com/en-us/windows/client-management/mdm/configuration-service-provider-reference,1
 vlookup,https://docs.microsoft.com/en-us/office/vba/api/excel.worksheetfunction.vlookup,10
 vlookup,https://docs.microsoft.com/en-us/office/vba/excel/concepts/excel-performance/excel-performance-and-limit-improvements,9
-vlookup,https://docs.microsoft.com/en-us/dotnet/api/microsoft.office.interop.excel.iworksheetfunction.vlookup,8
-vlookup,https://docs.microsoft.com/en-us/openspecs/office_standards/ms-oe376/432b20d0-1fad-445a-8b79-680555490a35,7
 vlookup,https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-worksheet-functions,6
 vlookup,https://docs.microsoft.com/en-us/graph/api/resources/workbook,5
 vlookup,https://docs.microsoft.com/en-us/dax/lookupvalue-function-dax,4
@@ -3659,7 +3589,6 @@ index,https://docs.microsoft.com/en-us/sql/relational-databases/indexes/indexes,
 index,https://docs.microsoft.com/en-us/ef/core/modeling/indexes,9
 index,https://docs.microsoft.com/en-us/dotnet/api/system.index,8
 index,https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-index-design-guide,5
-index,https://docs.microsoft.com/en-us/azure/search/search-what-is-an-index,4
 index,https://docs.microsoft.com/en-us/rest/api/searchservice/create-index,1
 exception,https://docs.microsoft.com/en-us/dotnet/api/system.exception,10
 exception,https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/exceptions/,9
@@ -3683,7 +3612,6 @@ rename,https://docs.microsoft.com/en-us/sql/relational-databases/statistics/rena
 blob,https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction,10
 blob,https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-dotnet,9
 blob,https://docs.microsoft.com/en-us/azure/storage/,8
-blob,https://docs.microsoft.com/en-us/windows/win32/api/wtypesbase/ns-wtypesbase-blob,7
 blob,https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-blob,6
 blob,https://docs.microsoft.com/en-us/rest/api/storageservices/blob-service-rest-api,5
 blob,https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction,4
@@ -3722,10 +3650,8 @@ map,https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.maps.map,5
 map,https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/map/,4
 map,https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain,1
 save,https://docs.microsoft.com/en-us/dotnet/api/microsoft.ml.modeloperationscatalog.save,10
-save,https://docs.microsoft.com/en-us/windows/win32/api/ocidl/nf-ocidl-ipersiststreaminit-save,9
 save,https://docs.microsoft.com/en-us/dotnet/api/system.drawing.image.save,8
 save,https://docs.microsoft.com/en-us/ef/core/saving/basic,7
-save,https://docs.microsoft.com/en-us/dotnet/api/microsoft.ml.trainers.recommender.matrixfactorizationmodelparameters.microsoft-ml-icansavemodel-save,6
 save,https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/save-publish-app,5
 save,https://docs.microsoft.com/en-us/nuget/reference/cli-reference/cli-ref-setapikey,4
 save,https://docs.microsoft.com/en-us/dotnet/machine-learning/how-to-guides/save-load-machine-learning-models-ml-net,3
@@ -3824,10 +3750,8 @@ lock,https://docs.microsoft.com/en-us/dotnet/api/system.windows.media.imaging.wr
 typeof,https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/type-testing-and-cast,9
 typeof,https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/operators/typeof-operator,8
 typeof,https://docs.microsoft.com/en-us/dotnet/api/microsoft.jscript.typeof,6
-typeof,https://docs.microsoft.com/en-us/dotnet/api/nunit.framework.throws.typeof,5
 typeof,https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/ifthenelse-statement,4
 typeof,https://docs.microsoft.com/en-us/dotnet/api/system.type.equals,3
-typeof,https://docs.microsoft.com/en-us/dotnet/api/nunit.framework.is.typeof,2
 typeof,https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/early-late-binding/determining-object-type,1
 text,https://docs.microsoft.com/en-us/ai-builder/prebuilt-text-recognizer-component-in-powerapps,10
 text,https://docs.microsoft.com/en-us/powerquery-m/text-from,9
@@ -3857,10 +3781,7 @@ return,https://docs.microsoft.com/en-us/aspnet/core/web-api/action-return-types,
 createprocess,https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createprocessa,10
 createprocess,https://docs.microsoft.com/en-us/windows/win32/procthread/creating-a-child-process-with-redirected-input-and-output,9
 createprocess,https://docs.microsoft.com/en-us/windows/win32/procthread/creating-processes,8
-createprocess,https://docs.microsoft.com/en-us/previous-versions/ms939168(v%3Dmsdn.10),7
-createprocess,https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/dbgeng/nf-dbgeng-idebugclient-createprocess,6
 createprocess,https://docs.microsoft.com/en-us/windows/win32/procthread/changing-environment-variables,5
-createprocess,https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/dbgeng/nf-dbgeng-idebugeventcallbacks-createprocess,3
 createprocess,https://docs.microsoft.com/en-us/windows/win32/procthread/process-creation-flags,2
 createprocess,https://docs.microsoft.com/en-us/windows/win32/procthread/setting-window-properties-using-startupinfo,1
 include,https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.entityframeworkqueryableextensions.include,10
@@ -3892,7 +3813,6 @@ date and time,https://docs.microsoft.com/en-us/dax/pre-defined-date-and-time-for
 password policy,https://docs.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/password-policy,10
 password policy,https://docs.microsoft.com/en-us/sql/relational-databases/security/password-policy,9
 password policy,https://docs.microsoft.com/en-us/office365/admin/manage/set-password-expiration-policy,8
-password policy,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh994572(v%3Dws.11),7
 password policy,https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-policy,6
 password policy,https://docs.microsoft.com/en-us/office365/admin/misc/password-policy-recommendations,5
 password policy,https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4793,4
@@ -3908,7 +3828,6 @@ case when,https://docs.microsoft.com/en-us/dynamics365/customer-service/automati
 case when,https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/when,2
 case when,https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/select-case-statement,1
 CreateWindow,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-createwindowa,10
-CreateWindow,https://docs.microsoft.com/en-us/previous-versions/ms959988(v%3Dmsdn.10),9
 CreateWindow,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-createwindowexa,8
 CreateWindow,https://docs.microsoft.com/en-us/windows/win32/learnwin32/creating-a-window,7
 CreateWindow,https://docs.microsoft.com/en-us/windows/win32/controls/create-a-button,6
@@ -3993,20 +3912,15 @@ android,https://docs.microsoft.com/en-us/xamarin/xamarin-forms/platform/android/
 android,https://docs.microsoft.com/en-us/intune/enrollment/android-fully-managed-enroll,2
 android,https://docs.microsoft.com/en-us/xamarin/android/get-started/,1
 timestamp,https://docs.microsoft.com/en-us/stream-analytics-query/timestamp-by-azure-stream-analytics,10
-timestamp,https://docs.microsoft.com/en-us/dotnet/api/android.hardware.sensorevent.timestamp,8
 timestamp,https://docs.microsoft.com/en-us/windows/win32/seccrypto/time-stamping-authenticode-signatures,7
 timestamp,https://docs.microsoft.com/en-us/stream-analytics-query/system-timestamp-stream-analytics,6
-timestamp,https://docs.microsoft.com/en-us/dotnet/api/coreanimation.cadisplaylink.timestamp,5
 timestamp,https://docs.microsoft.com/en-us/sql/t-sql/data-types/rowversion-transact-sql,4
 timestamp,https://docs.microsoft.com/en-us/ef/core/modeling/concurrency,3
-timestamp,https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.tracing.eventwritteneventargs.timestamp,1
 getlasterror,https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror,10
 getlasterror,https://docs.microsoft.com/en-us/windows/win32/debug/system-error-codes--0-499-,9
 getlasterror,https://docs.microsoft.com/en-us/windows/win32/debug/retrieving-the-last-error-code,8
-getlasterror,https://docs.microsoft.com/en-us/windows/win32/api/d3d11shader/nf-d3d11shader-id3d11functionlinkinggraph-getlasterror,7
 getlasterror,https://docs.microsoft.com/en-us/dotnet/api/system.web.httpserverutility.getlasterror,6
 getlasterror,https://docs.microsoft.com/en-us/visualstudio/code-quality/ca1404,5
-getlasterror,https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/sti/nf-sti-istidevice-getlasterror,3
 tryparse,https://docs.microsoft.com/en-us/dotnet/api/system.int32.tryparse,10
 tryparse,https://docs.microsoft.com/en-us/dotnet/api/system.double.tryparse,9
 tryparse,https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/how-to-convert-a-string-to-a-number,8
@@ -4069,11 +3983,9 @@ clone,https://docs.microsoft.com/en-us/rest/api/power-bi/reports/clonereport,1
 youtube,https://docs.microsoft.com/en-us/connectors/youtube/,10
 youtube,https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/publish/upload-video,9
 youtube,https://docs.microsoft.com/en-us/office/troubleshoot/powerpoint/cant-embed-online-video,7
-youtube,https://docs.microsoft.com/en-us/windows-hardware/drivers/dashboard/percent-of-youtube-video-playback-failures-in-microsoft-edge-and-internet-explorer,6
 youtube,https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/get-started/videos,5
 youtube,https://docs.microsoft.com/en-us/samples/officedev/outlook-add-in-javascript-viewyoutubevideos/outlook-add-in-view-youtube-videos/,4
 youtube,https://docs.microsoft.com/en-us/aspnet/web-pages/overview/ui-layouts-and-themes/10-working-with-video,3
-youtube,https://docs.microsoft.com/en-us/microsoft-365-app-certification/teams/microsoft-powered-by-youtube,1
 directory,https://docs.microsoft.com/en-us/dotnet/api/system.io.directory,10
 directory,https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/concept-fundamentals-security-defaults,9
 directory,https://docs.microsoft.com/en-us/azure/active-directory/,8
@@ -4085,10 +3997,8 @@ directory,https://docs.microsoft.com/en-us/azure/active-directory-b2c/overview,3
 directory,https://docs.microsoft.com/en-us/powershell/azure/active-directory/install-adv2,2
 directory,https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app,1
 ReadFile,https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-readfile,10
-ReadFile,https://docs.microsoft.com/en-us/previous-versions/ms961338(v%3Dmsdn.10),8
 ReadFile,https://docs.microsoft.com/en-us/windows/win32/fileio/testing-for-the-end-of-a-file,7
 ReadFile,https://docs.microsoft.com/en-us/windows/console/high-level-console-input-and-output-functions,6
-ReadFile,https://docs.microsoft.com/en-us/dotnet/api/microsoft.hpc.azure.filestaging.client.ifilestagingclient.readfile,5
 ReadFile,https://docs.microsoft.com/en-us/windows/win32/ipc/named-pipe-client,4
 ReadFile,https://docs.microsoft.com/en-us/windows/win32/ipc/reading-from-a-mailslot,3
 ReadFile,https://docs.microsoft.com/en-us/windows/win32/winsock/socket-handles-2,2
@@ -4111,7 +4021,6 @@ rank,https://docs.microsoft.com/en-us/u-sql/functions/ranking/rank,6
 rank,https://docs.microsoft.com/en-us/windows/win32/search/-search-sql-rankby,5
 rank,https://docs.microsoft.com/en-us/dotnet/api/system.array.rank,4
 rank,https://docs.microsoft.com/en-us/office/troubleshoot/excel/representing-ties-using-rank,3
-rank,https://docs.microsoft.com/en-us/sql/relational-databases/search/limit-search-results-with-rank,2
 rank,https://docs.microsoft.com/en-us/dax/rank-eq-function-dax,1
 wcf,https://docs.microsoft.com/en-us/dotnet/framework/wcf/whats-wcf,10
 wcf,https://docs.microsoft.com/en-us/dotnet/framework/wcf/,9
@@ -4179,10 +4088,8 @@ service principal,https://docs.microsoft.com/en-us/azure/virtual-desktop/create-
 fopen,https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/fopen-wfopen,10
 fopen,https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/fopen-s-wfopen-s,8
 fopen,https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/setmaxstdio,6
-fopen,https://docs.microsoft.com/en-us/cpp/c-runtime-library/file-translation-constants,5
 fopen,https://docs.microsoft.com/en-us/cpp/c-runtime-library/file-handling,4
 fopen,https://docs.microsoft.com/en-us/cpp/c-runtime-library/text-and-binary-mode-file-i-o,3
-fopen,https://docs.microsoft.com/en-us/cpp/c-runtime-library/commit-to-disk-constants,1
 open,https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/open-statement,10
 open,https://docs.microsoft.com/en-us/powershell/scripting/getting-started/starting-windows-powershell,9
 open,https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/open,7
@@ -4203,12 +4110,6 @@ retention,https://docs.microsoft.com/en-us/microsoft-365/compliance/auto-apply-r
 retention,https://docs.microsoft.com/en-us/sql/relational-databases/track-changes/enable-and-disable-change-tracking-sql-server,2
 retention,https://docs.microsoft.com/en-us/exchange/apply-retention-policy-exchange-2013-help,1
 CloseHandle,https://docs.microsoft.com/en-us/windows/win32/api/handleapi/nf-handleapi-closehandle,10
-CloseHandle,https://docs.microsoft.com/en-us/dotnet/api/microsoft.crm.unifiedservicedesk.dynamics.controls.nativemethods.closehandle,6
-CloseHandle,https://docs.microsoft.com/en-us/dotnet/api/microsoft.hostintegration.drda.common.safetokenhandle.closehandle,5
-CloseHandle,https://docs.microsoft.com/en-us/dotnet/api/microsoft.rtc.sip.serveragent.closehandle,4
-CloseHandle,https://docs.microsoft.com/en-us/windows/win32/seccrypto/icertstore-closehandle,3
-CloseHandle,https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/-closehandle--close-handle-,2
-CloseHandle,https://docs.microsoft.com/en-us/dotnet/api/microsoft.enterprisemanagement.runtime.taskresultstatus.closehandle,1
 windows.h,https://docs.microsoft.com/en-us/windows/win32/winprog/using-the-windows-headers,10
 windows.h,https://docs.microsoft.com/en-us/windows/win32/learnwin32/your-first-windows-program,9
 windows.h,https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createprocessa,8
@@ -4226,7 +4127,6 @@ dir,https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualbasic.filesystem
 dir,https://docs.microsoft.com/en-us/azure/devops/repos/tfvc/dir-command,6
 dir,https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/error-messages/dir-function-must-first-be-called-with-a-pathname-argument,4
 dir,https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/dir-getattr-and-setattr-constants,3
-dir,https://docs.microsoft.com/en-us/dotnet/api/microsoft.sharepoint.webpartpages.webpart.dir,2
 for each,https://docs.microsoft.com/en-us/cpp/dotnet/for-each-in,9
 for each,https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/for-each-next-statement,8
 for each,https://docs.microsoft.com/en-us/azure/data-factory/control-flow-for-each-activity,7
@@ -4285,10 +4185,6 @@ boolean,https://docs.microsoft.com/en-us/dotnet/api/system.boolean.parse,2
 boolean,https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/symbol-and-operator-reference/boolean-operators,1
 SendMessage,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendmessage,10
 SendMessage,https://docs.microsoft.com/en-us/windows/win32/wintouch/sendmessage--postmessage--and-related-functions,9
-SendMessage,https://docs.microsoft.com/en-us/dotnet/api/microsoft.hostintegration.mqclient.sendmessage,7
-SendMessage,https://docs.microsoft.com/en-us/dotnet/api/android.renderscripts.renderscript.sendmessage,5
-SendMessage,https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/wiamindr_lh/nf-wiamindr_lh-iwiaminidrvtransfercallback-sendmessage,4
-SendMessage,https://docs.microsoft.com/en-us/uwp/api/windows.devices.midi.midioutport.sendmessage,3
 batch,https://docs.microsoft.com/en-us/azure/batch/,10
 batch,https://docs.microsoft.com/en-us/previous-versions/azure/batch-ai/overview-what-happened-batch-ai,9
 batch,https://docs.microsoft.com/en-us/azure/batch/batch-technical-overview,8
@@ -4309,8 +4205,6 @@ menu,https://docs.microsoft.com/en-us/hololens/holographic-home,3
 menu,https://docs.microsoft.com/en-us/windows/win32/winauto/uiauto-supportmenucontroltype,2
 menu,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-enablemenuitem,1
 kms,https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys,10
-kms,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj612867(v%3Dws.11),9
-kms,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn502531(v%3Dws.11),8
 kms,https://docs.microsoft.com/en-us/windows-server/get-started/activation-troubleshoot-kms-general,7
 kms,https://docs.microsoft.com/en-us/windows-server/get-started/common-troubleshooting-procedures-kms-dns,6
 kms,https://docs.microsoft.com/en-us/windows-server/get-started/activation-troubleshoot-kms-issues,4
@@ -4367,7 +4261,6 @@ grid,https://docs.microsoft.com/en-us/azure/event-grid/sdk-overview,1
 wildcard,https://docs.microsoft.com/en-us/iis/get-started/whats-new-in-iis-10/wildcard-host-header-support,10
 wildcard,https://docs.microsoft.com/en-us/lyncserver/lync-server-2013-wildcard-certificate-support,9
 wildcard,https://docs.microsoft.com/en-us/sql/t-sql/language-elements/wildcard-match-one-character-transact-sql,8
-wildcard,https://docs.microsoft.com/en-us/azure/devops/project/search/advanced-code-search-syntax,7
 wildcard,https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/application-proxy-wildcard,6
 wildcard,https://docs.microsoft.com/en-us/previous-versions/windows/desktop/indexsrv/ms-dos-and-windows-wildcard-characters,5
 wildcard,https://docs.microsoft.com/en-us/iis/application-frameworks/building-and-running-aspnet-applications/wildcard-script-mapping-and-iis-integrated-pipeline,4
@@ -4427,7 +4320,6 @@ az-900,https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t00,7
 az-900,https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01,6
 az-900,https://docs.microsoft.com/en-us/learn/certifications/microsoft-ignite-free-certification-exam-offer,5
 az-900,https://docs.microsoft.com/en-us/learn/certifications/posts/exam-and-certification-retirement-roundup-july-2019,4
-az-900,https://docs.microsoft.com/en-us/learn/certifications/posts/our-new-fundamentals-certification-program-launches-with-azure-and-m365,3
 OpenProcess,https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-openprocess,10
 OpenProcess,https://docs.microsoft.com/en-us/windows/win32/psapi/enumerating-all-processes,9
 OpenProcess,https://docs.microsoft.com/en-us/windows/win32/debug/process-functions-for-debugging,8
@@ -4447,7 +4339,6 @@ inner join,https://docs.microsoft.com/en-us/dotnet/api/system.linq.enumerable.jo
 inner join,https://docs.microsoft.com/en-us/dax/naturalinnerjoin-function-dax,2
 inner join,https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/linq/how-to-combine-data-with-linq-by-using-joins,1
 createwindowex,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-createwindowexa,10
-createwindowex,https://docs.microsoft.com/en-us/previous-versions/ms960010(v%3Dmsdn.10),9
 createwindowex,https://docs.microsoft.com/en-us/windows/win32/learnwin32/creating-a-window,8
 createwindowex,https://docs.microsoft.com/en-us/windows/win32/controls/create-scroll-bars,6
 createwindowex,https://docs.microsoft.com/en-us/windows/win32/controls/create-toolbars,5
@@ -4487,7 +4378,6 @@ soap,https://docs.microsoft.com/en-us/dotnet/standard/serialization/attributes-t
 soap,https://docs.microsoft.com/en-us/dotnet/standard/serialization/xml-and-soap-serialization,5
 soap,https://docs.microsoft.com/en-us/biztalk/core/what-is-the-soap-adapter,4
 soap,https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/webservices/web-services,3
-soap,https://docs.microsoft.com/en-us/biztalk/core/how-to-diagnose-problems-with-the-soap-adapter,2
 soap,https://docs.microsoft.com/en-us/sql/reporting-services/report-server-web-service/accessing-the-soap-api,1
 help,https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-help,10
 help,https://docs.microsoft.com/en-us/office365/admin/admin-home,9
@@ -4498,7 +4388,6 @@ help,https://docs.microsoft.com/en-us/sql/t-sql/database-console-commands/dbcc-h
 help,https://docs.microsoft.com/en-us/azure/active-directory/user-help/multi-factor-authentication-end-user-troubleshoot,4
 help,https://docs.microsoft.com/en-us/microsoft-365/,3
 help,https://docs.microsoft.com/en-us/powershell/scripting/developer/module/writing-help-for-windows-powershell-modules,2
-help,https://docs.microsoft.com/en-us/windows/win32/winauto/help-property,1
 access control,https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal,10
 access control,https://docs.microsoft.com/en-us/azure/role-based-access-control/overview,9
 access control,https://docs.microsoft.com/en-us/windows/win32/secauthz/access-control,8
@@ -4534,7 +4423,6 @@ sftp,https://docs.microsoft.com/en-us/azure/connectors/connectors-create-api-sft
 sftp,https://docs.microsoft.com/en-us/samples/azure-samples/sftp-creation-template/sftp-on-azure/,4
 sftp,https://docs.microsoft.com/en-us/biztalk/core/considerations-for-running-adapter-handlers-within-a-clustered-host1,3
 sftp,https://docs.microsoft.com/en-us/microsoft-365/compliance/archive-instant-bloomberg-data,2
-sftp,https://docs.microsoft.com/en-us/dotnet/api/sftp,1
 VBA,https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office,10
 VBA,https://docs.microsoft.com/en-us/office/vba/api/overview/,9
 VBA,https://docs.microsoft.com/en-us/office/vba/api/overview/excel,8
@@ -4552,7 +4440,6 @@ iif,https://docs.microsoft.com/en-us/office/vba/language/reference/user-interfac
 iif,https://docs.microsoft.com/en-us/azure/kusto/query/iiffunction,6
 iif,https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualbasic.interaction.iif,5
 iif,https://docs.microsoft.com/en-us/office/client-developer/access/iif-function-access-custom-web-app,4
-iif,https://docs.microsoft.com/en-us/openspecs/microsoft_general_purpose_programming_languages/ms-vbal/3593c073-c770-4060-8416-aaf7545ea5fe,3
 iif,https://docs.microsoft.com/en-us/office/vba/api/access.application.nz,2
 iif,https://docs.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-sync-functions-reference,1
 environment,https://docs.microsoft.com/en-us/azure/devops/pipelines/process/environments,10
@@ -4630,7 +4517,6 @@ change password requirements windows 10,https://docs.microsoft.com/en-us/windows
 base64,https://docs.microsoft.com/en-us/dotnet/api/system.buffers.text.base64,10
 base64,https://docs.microsoft.com/en-us/windows/win32/api/wincrypt/nf-wincrypt-cryptbinarytostringa,9
 base64,https://docs.microsoft.com/en-us/powerquery-m/binaryencoding-base64,8
-base64,https://docs.microsoft.com/en-us/dotnet/api/java.util.base64.encoder,7
 base64,https://docs.microsoft.com/en-us/sql/relational-databases/xml/use-the-binary-base64-option,6
 base64,https://docs.microsoft.com/en-us/dotnet/api/android.util.base64,5
 base64,https://docs.microsoft.com/en-us/bingmaps/v8-web-control/map-control-concepts/pushpins/custom-base64-image-pushpin-example,4
@@ -4763,7 +4649,6 @@ resource group,https://docs.microsoft.com/en-us/azure/azure-resource-manager/man
 resource group,https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/cross-resource-group-deployment,1
 office365 troubleshoot licensing click to run update support tool,https://docs.microsoft.com/en-us/office365/troubleshoot/updates/automatic-updates,10
 office365 troubleshoot licensing click to run update support tool,https://docs.microsoft.com/en-us/office365/troubleshoot/installation/product-ids-supported-office-deployment-click-to-run,9
-office365 troubleshoot licensing click to run update support tool,https://docs.microsoft.com/en-us/office365/admin/troubleshoot-issues-for-admins/fix-outlook-and-office-365-issues,8
 office365 troubleshoot licensing click to run update support tool,https://docs.microsoft.com/en-us/office365/troubleshoot/installation/office-click-to-run-perpetual,7
 office365 troubleshoot licensing click to run update support tool,https://docs.microsoft.com/en-us/office365/troubleshoot/installation/office-perpetual-volume-license-products,6
 office365 troubleshoot licensing click to run update support tool,https://docs.microsoft.com/en-us/office365/troubleshoot/active-directory/duplicate-attributes-prevent-dirsync,5
@@ -4776,10 +4661,8 @@ cancel,https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlcomm
 cancel,https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/cancel-azure-subscription,8
 cancel,https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/dynamics365-supply-chain-management/cancel-work,7
 cancel,https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/cancel-safe-irp-queues,6
-cancel,https://docs.microsoft.com/en-us/dotnet/api/foundation.nsoperation.cancel,4
 cancel,https://docs.microsoft.com/en-us/dotnet/api/system.threading.cancellationtokensource.cancel,3
 cancel,https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/implementing-a-cancel-routine,2
-cancel,https://docs.microsoft.com/en-us/windows/win32/api/deviceaccess/nf-deviceaccess-icreatedeviceaccessasync-cancel,1
 setfilter,https://docs.microsoft.com/en-us/dynamics-nav/setfilter-function--record-,10
 setfilter,https://docs.microsoft.com/en-us/dynamics-nav/setcurrentkey--setrange--setfilter--getrangemin--and-getrangemax-functions,9
 setfilter,https://docs.microsoft.com/en-us/dynamics-nav/setfilter-function--query-,8
@@ -4788,7 +4671,6 @@ setfilter,https://docs.microsoft.com/en-us/office/vba/api/access.docmd.setfilter
 setfilter,https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/methods-auto/fieldref/fieldref-setfilter-method,5
 setfilter,https://docs.microsoft.com/en-us/dynamics-nav/setfilter-function--fieldref-,4
 setfilter,https://docs.microsoft.com/en-us/office/client-developer/access/desktop-database-reference/setfilter-macro-action,3
-setfilter,https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/wudfddi/nf-wudfddi-iwdfdeviceinitialize-setfilter,2
 setfilter,https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/methods-auto/record/record-setfilter-method,1
 schedule,https://docs.microsoft.com/en-us/dynamics365/field-service/share-schedule-board-tab,10
 schedule,https://docs.microsoft.com/en-us/dynamics365/field-service/schedule-board-utilization,9
@@ -4825,7 +4707,6 @@ printer,https://docs.microsoft.com/en-us/windows/win32/printdocs/printing-and-pr
 printer,https://docs.microsoft.com/en-us/windows/win32/printdocs/printer-driver-installation-reference,8
 printer,https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/out-printer,7
 printer,https://docs.microsoft.com/en-us/windows-hardware/drivers/print/printer-driver-architecture,6
-printer,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj190062(v%3Dws.11),5
 printer,https://docs.microsoft.com/en-us/windows-server/storage/file-server/best-practices-analyzer/smb-open-file-sharing-ports,4
 printer,https://docs.microsoft.com/en-us/powershell/module/printmanagement/remove-printer,3
 printer,https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/prnmngr,2
@@ -5005,7 +4886,6 @@ az-103,https://docs.microsoft.com/en-us/learn/paths/sap-certified-offerings/,1
 block,https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/configure-block-at-first-sight-windows-defender-antivirus,10
 block,https://docs.microsoft.com/en-us/rest/api/storageservices/understanding-block-blobs--append-blobs--and-page-blobs,8
 block,https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules,6
-block,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831795(v%3Dws.11),5
 block,https://docs.microsoft.com/en-us/windows/win32/menurc/stringfileinfo-block,3
 block,https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-policy-block-legacy,2
 block,https://docs.microsoft.com/en-us/rest/api/storageservices/put-block,1
@@ -5200,7 +5080,6 @@ nameof,https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/o
 nameof,https://docs.microsoft.com/en-us/visualstudio/code-quality/ca1507,8
 nameof,https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-6,7
 nameof,https://docs.microsoft.com/en-us/archive/msdn-magazine/2014/october/csharp-the-new-and-improved-csharp-6-0,4
-nameof,https://docs.microsoft.com/en-us/dotnet/api/microsoft.codeanalysis.visualbasic.syntaxfactory.nameofexpression,3
 visual studio 2015,https://docs.microsoft.com/en-us/visualstudio/install/how-to-install-a-specific-release-of-visual-studio,10
 visual studio 2015,https://docs.microsoft.com/en-us/visualstudio/productinfo/vs2015-sysrequirements-vs,9
 visual studio 2015,https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt,8
@@ -5248,7 +5127,6 @@ formula,https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-chan
 formula,https://docs.microsoft.com/en-us/powerquery-m/,5
 formula,https://docs.microsoft.com/en-us/office/vba/api/excel.range.formula,4
 formula,https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language,3
-msmq,https://docs.microsoft.com/en-us/previous-versions/windows/desktop/legacy/ms711472(v%3Dvs.85),10
 msmq,https://docs.microsoft.com/en-us/dotnet/framework/wcf/samples/installing-message-queuing-msmq,9
 msmq,https://docs.microsoft.com/en-us/biztalk/core/configuring-the-msmq-adapter,8
 msmq,https://docs.microsoft.com/en-us/biztalk/core/msmq-adapter,7
@@ -5342,12 +5220,7 @@ variant,https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualstudio.packa
 variant,https://docs.microsoft.com/en-us/dynamics365/supply-chain/pim/product-variant-identification-nomenclature,3
 variant,https://docs.microsoft.com/en-us/dynamics365/supply-chain/pim/tasks/add-variant-products-purchase-order-variant-weights,2
 variant,https://docs.microsoft.com/en-us/dynamics-nav/variant-data-type,1
-windows server 2012 r2,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh801901(v%3Dws.11),10
-windows server 2012 r2,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn303418(v%3Dws.11),9
-windows server 2012 r2,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj612867(v%3Dws.11),8
 windows server 2012 r2,https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/deploy/prepare-environment,7
-windows server 2012 r2,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj134246(v%3Dws.11),6
-windows server 2012 r2,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831620(v%3Dws.11),5
 windows server 2012 r2,https://docs.microsoft.com/en-us/iis/install/installing-iis-85/installing-iis-85-on-windows-server-2012-r2,4
 windows server 2012 r2,https://docs.microsoft.com/en-us/iis/application-frameworks/running-classic-asp-applications-on-iis-7-and-iis-8/classic-asp-not-installed-by-default-on-iis,3
 windows server 2012 r2,https://docs.microsoft.com/en-us/windows-server/upgrade/upgrade-2012r2-to-2019,2
@@ -5518,9 +5391,6 @@ arraylist,https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/conce
 arraylist,https://docs.microsoft.com/en-us/dotnet/api/java.util.arraylist,6
 arraylist,https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/concepts/linq/how-to-query-an-arraylist-with-linq,5
 arraylist,https://docs.microsoft.com/en-us/dotnet/api/java.util.arraylist.-ctor,4
-arraylist,https://docs.microsoft.com/en-us/dotnet/api/system.security.securitymanager.getzoneandorigin,3
-arraylist,https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.repeateritemcollection.-ctor,2
-arraylist,https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.gridviewrowcollection.-ctor,1
 user story,https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/agile-process-workflow,10
 user story,https://docs.microsoft.com/en-us/azure/devops/boards/work-items/follow-work-items,9
 user story,https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/create-your-backlog,8
@@ -5564,7 +5434,6 @@ properties,https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/clas
 properties,https://docs.microsoft.com/en-us/dotnet/csharp/properties,9
 properties,https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-properties,8
 properties,https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/members/properties,7
-properties,https://docs.microsoft.com/en-us/dotnet/api/envdte.projectitem.properties,6
 properties,https://docs.microsoft.com/en-us/windows/win32/msi/about-properties,4
 properties,https://docs.microsoft.com/en-us/ef/core/modeling/shadow-properties,2
 networking,https://docs.microsoft.com/en-us/windows-server/networking/networking,10
@@ -5587,8 +5456,6 @@ expression,https://docs.microsoft.com/en-us/azure/devops/pipelines/process/expre
 expression,https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/statements-expressions-operators/expressions,1
 1004,https://docs.microsoft.com/en-us/office/troubleshoot/excel/run-time-error-1004,10
 1004,https://docs.microsoft.com/en-us/dotnet/framework/windows-workflow-foundation/1004-workflowinstanceaborted,9
-1004,https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpbcgr/6f60e78e-49e4-47ed-985f-7072aef6d3ed,8
-1004,https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpbcgr/064b759a-4f60-4a08-a91e-c84abcaf40f5,7
 1004,https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpbcgr/94d02f37-ea1d-4f80-bce5-c8a556349313,6
 1004,https://docs.microsoft.com/en-us/windows/win32/api/lmaccess/ns-lmaccess-user_modals_info_1004,2
 keyboard,https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.keyboard,10
@@ -5624,7 +5491,6 @@ key vault,https://docs.microsoft.com/en-us/azure/key-vault/overview-security,1
 shutdown,https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown,10
 shutdown,https://docs.microsoft.com/en-us/windows/win32/api/winsock/nf-winsock-shutdown,9
 shutdown,https://docs.microsoft.com/en-us/sql/t-sql/language-elements/shutdown-transact-sql,8
-shutdown,https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilercallback-shutdown-method,7
 shutdown,https://docs.microsoft.com/en-us/dotnet/api/system.net.sockets.socket.shutdown,6
 shutdown,https://docs.microsoft.com/en-us/sysinternals/downloads/psshutdown,5
 shutdown,https://docs.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/shutdown-clear-virtual-memory-pagefile,4
@@ -5645,7 +5511,6 @@ signature,https://docs.microsoft.com/en-us/azure/storage/common/storage-sas-over
 signature,https://docs.microsoft.com/en-us/windows/win32/direct3d12/root-signatures,7
 signature,https://docs.microsoft.com/en-us/windows/win32/direct3d12/specifying-root-signatures-in-hlsl,6
 signature,https://docs.microsoft.com/en-us/dotnet/api/system.management.automation.signature,5
-signature,https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/hlsl-specified-root-signature,4
 signature,https://docs.microsoft.com/en-us/windows/win32/direct3d12/creating-a-root-signature,3
 signature,https://docs.microsoft.com/en-us/windows-hardware/drivers/install/whql-release-signature,2
 signature,https://docs.microsoft.com/en-us/windows/win32/direct3d12/root-signature-limits,1
@@ -5690,9 +5555,7 @@ matrix,https://docs.microsoft.com/en-us/power-bi/visuals/desktop-matrix-visual,1
 matrix,https://docs.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-support-matrix,9
 matrix,https://docs.microsoft.com/en-us/exchange/plan-and-deploy/supportability-matrix,8
 matrix,https://docs.microsoft.com/en-us/appcenter/general/platform-service-matrix,7
-matrix,https://docs.microsoft.com/en-us/windows/win32/vml/matrix-attribute--skew--vml,6
 matrix,https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-support-matrix,5
-matrix,https://docs.microsoft.com/en-us/windows/win32/vml/matrix-attribute--shadow--vml,4
 matrix,https://docs.microsoft.com/en-us/dotnet/api/android.graphics.matrix,3
 matrix,https://docs.microsoft.com/en-us/bingmaps/rest-services/routes/calculate-a-distance-matrix,2
 matrix,https://docs.microsoft.com/en-us/azure/backup/backup-support-matrix,1
@@ -5738,17 +5601,14 @@ mid,https://docs.microsoft.com/en-us/dax/mid-function-dax,9
 mid,https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/mid-statement,8
 mid,https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/mid-statement,7
 mid,https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/functions/function-left-mid-right,6
-mid,https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualbasic.strings.mid?view=netframework-4.8,5
 mid,https://docs.microsoft.com/en-us/office/client-developer/visio/mid-function-visioshapesheet,4
 mid,https://docs.microsoft.com/en-us/office/troubleshoot/excel/use-left-right-mid-len-function,3
-mid,https://docs.microsoft.com/en-us/dynamicsax-2012/appuser-itpro/fixed-asset-mid-quarter-applicability-report-assetmidquarter,2
 mid,https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cifs/9ab1f759-689d-481a-b160-b8f0eb09f5fb,1
 toolbox,https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/toolbox,10
 toolbox,https://docs.microsoft.com/en-us/visualstudio/ide/reference/toolbox,9
 toolbox,https://docs.microsoft.com/en-us/biztalk/core/how-to-open-the-functoid-toolbox,8
 toolbox,https://docs.microsoft.com/en-us/biztalk/core/how-to-use-the-toolbox,7
 toolbox,https://docs.microsoft.com/en-us/visualstudio/workflow-designer/how-to-add-activities-to-the-toolbox,6
-toolbox,https://docs.microsoft.com/en-us/office/vba/language/concepts/forms/delete-an-item-from-the-toolbox,5
 toolbox,https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/walkthrough-automatically-populating-the-toolbox-with-custom-components,4
 toolbox,https://docs.microsoft.com/en-us/windows/communitytoolkit/toolbox-support,3
 toolbox,https://docs.microsoft.com/en-us/sql/ssms/use-the-toolbox,2
@@ -5837,9 +5697,7 @@ truncate,https://docs.microsoft.com/en-us/dotnet/api/system.math.truncate,8
 truncate,https://docs.microsoft.com/en-us/u-sql/ddl/tables/truncate-table,7
 truncate,https://docs.microsoft.com/en-us/dotnet/api/system.data.entity.dbfunctions.truncate,6
 truncate,https://docs.microsoft.com/en-us/dotnet/api/microsoft.toolkit.extensions.stringextensions.truncate,5
-truncate,https://docs.microsoft.com/en-us/dotnet/api/system.drawing.point.truncate,4
 truncate,https://docs.microsoft.com/en-us/dotnet/api/system.io.filemode,3
-truncate,https://docs.microsoft.com/en-us/dotnet/api/system.mathf.truncate,2
 truncate,https://docs.microsoft.com/en-us/dotnet/api/system.decimal.truncate,1
 password change,https://docs.microsoft.com/en-us/azure/active-directory/authentication/tutorial-enable-sspr,10
 password change,https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-sspr-deployment,9
@@ -6019,7 +5877,6 @@ xaml,https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/hot-reload,2
 xaml,https://docs.microsoft.com/en-us/visualstudio/xaml-tools/designing-xaml-in-visual-studio,1
 saveas,https://docs.microsoft.com/en-us/office/vba/api/excel.workbook.saveas,10
 saveas,https://docs.microsoft.com/en-us/dotnet/api/microsoft.office.interop.word._document.saveas,9
-saveas,https://docs.microsoft.com/en-us/previous-versions/office/developer/office-2003/aa220734(v%3Doffice.11),8
 saveas,https://docs.microsoft.com/en-us/dotnet/api/system.configuration.configuration.saveas,7
 saveas,https://docs.microsoft.com/en-us/dynamics-nav/saveas-function,6
 saveas,https://docs.microsoft.com/en-us/office/vba/api/outlook.mailitem.saveas,5
@@ -6029,13 +5886,6 @@ saveas,https://docs.microsoft.com/en-us/office/vba/language/reference/user-inter
 saveas,https://docs.microsoft.com/en-us/office/vba/api/project.project.saveas,1
 ShowWindow,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-showwindow,10
 ShowWindow,https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-showwindow,8
-ShowWindow,https://docs.microsoft.com/en-us/dotnet/api/android.inputmethodservices.inputmethodservice.showwindow,7
-ShowWindow,https://docs.microsoft.com/en-us/dotnet/api/microsoft.office.interop.excel.chartclass.showwindow,6
-ShowWindow,https://docs.microsoft.com/en-us/dotnet/api/microsoft.crm.unifiedservicedesk.dynamics.controls.nativemethods.showwindow,5
-ShowWindow,https://docs.microsoft.com/en-us/dotnet/api/microsoft.office.interop.excel._chart.showwindow,4
-ShowWindow,https://docs.microsoft.com/en-us/dotnet/api/microsoft.crm.unifiedservicedesk.dynamics.icrmwindowcontainer.showwindow,3
-ShowWindow,https://docs.microsoft.com/en-us/dotnet/api/microsoft.crm.unifiedservicedesk.dynamics.genericwebbrowser.showwindow,2
-ShowWindow,https://docs.microsoft.com/en-us/dotnet/api/appkit.nswindowcontroller.showwindow,1
 cookie,https://docs.microsoft.com/en-us/dotnet/api/system.net.cookie,9
 cookie,https://docs.microsoft.com/en-us/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications,8
 cookie,https://docs.microsoft.com/en-us/aspnet/core/security/authentication/cookie,7
@@ -6057,10 +5907,6 @@ cookie,https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/appli
 1903,https://docs.microsoft.com/en-us/windows/privacy/manage-windows-1903-endpoints,1
 sendmessage,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendmessage,10
 sendmessage,https://docs.microsoft.com/en-us/windows/win32/wintouch/sendmessage--postmessage--and-related-functions,9
-sendmessage,https://docs.microsoft.com/en-us/dotnet/api/microsoft.hostintegration.mqclient.sendmessage,7
-sendmessage,https://docs.microsoft.com/en-us/dotnet/api/android.renderscripts.renderscript.sendmessage,5
-sendmessage,https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/wiamindr_lh/nf-wiamindr_lh-iwiaminidrvtransfercallback-sendmessage,4
-sendmessage,https://docs.microsoft.com/en-us/uwp/api/windows.devices.midi.midioutport.sendmessage,3
 compliance,https://docs.microsoft.com/en-us/microsoft-365/compliance/offering-home,10
 compliance,https://docs.microsoft.com/en-us/microsoft-365/compliance/microsoft-365-compliance-center,9
 compliance,https://docs.microsoft.com/en-us/microsoft-365/compliance/go-to-the-securitycompliance-center,8
@@ -6096,7 +5942,6 @@ float,https://docs.microsoft.com/en-us/sql/t-sql/data-types/float-and-real-trans
 float,https://docs.microsoft.com/en-us/cpp/c-language/type-float,6
 float,https://docs.microsoft.com/en-us/dotnet/api/system.single.epsilon,5
 float,https://docs.microsoft.com/en-us/cpp/standard-library/complex-float,4
-float,https://docs.microsoft.com/en-us/windows/win32/api/directxmath/nf-directxmath-xmfloat2-xmfloat2(float_float),3
 float,https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl-asfloat,2
 float,https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/modf-modff-modfl,1
 coalesce,https://docs.microsoft.com/en-us/sql/t-sql/language-elements/coalesce-transact-sql,10
@@ -6106,10 +5951,8 @@ coalesce,https://docs.microsoft.com/en-us/azure/kusto/query/coalescefunction,7
 coalesce,https://docs.microsoft.com/en-us/dotnet/api/system.linq.expressions.expression.coalesce,6
 coalesce,https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/disable-heap-coalesce-on-free,5
 coalesce,https://docs.microsoft.com/en-us/office/client-developer/access/coalesce-function-access-custom-web-app,4
-coalesce,https://docs.microsoft.com/en-us/dotnet/api/microsoft.spark.sql.dataframe.coalesce,3
 coalesce,https://docs.microsoft.com/en-us/u-sql/common-sql-expressions-in,1
 callback,https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/writing-a-bug-check-callback-routine,4
-callback,https://docs.microsoft.com/en-us/windows/win32/extensible-storage-engine/callback-parameters,2
 callback,https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/utility/azure-function,1
 sharepoint 365,https://docs.microsoft.com/en-us/sharepoint/introduction,10
 sharepoint 365,https://docs.microsoft.com/en-us/sharepoint/sharepoint-online,9
@@ -6149,7 +5992,6 @@ encoding,https://docs.microsoft.com/en-us/powershell/scripting/components/vscode
 encoding,https://docs.microsoft.com/en-us/dotnet/standard/base-types/character-encoding,2
 encoding,https://docs.microsoft.com/en-us/dotnet/api/system.xml.xmlwritersettings.encoding,1
 SetWindowPos,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-setwindowpos,10
-SetWindowPos,https://docs.microsoft.com/en-us/previous-versions/ms961540(v%3Dmsdn.10),9
 SetWindowPos,https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanged,8
 SetWindowPos,https://docs.microsoft.com/en-us/cpp/mfc/reference/cwnd-class,7
 SetWindowPos,https://docs.microsoft.com/en-us/windows/win32/winmsg/wm-windowposchanging,6
@@ -6166,10 +6008,7 @@ kiosk,https://docs.microsoft.com/en-us/windows/configuration/kiosk-methods,4
 kiosk,https://docs.microsoft.com/en-us/windows/configuration/kiosk-prepare,3
 kiosk,https://docs.microsoft.com/en-us/windows/configuration/kiosk-validate,2
 kiosk,https://docs.microsoft.com/en-us/intune/configuration/kiosk-settings-windows,1
-sysname,https://docs.microsoft.com/en-us/dotnet/api/android.systems.structutsname.sysname,10
-sysname,https://docs.microsoft.com/en-us/dotnet/api/microsoft.sqlserver.management.smo.datatype.sysname,9
 sysname,https://docs.microsoft.com/en-us/sql/relational-databases/system-catalog-views/sys-types-transact-sql,7
-sysname,https://docs.microsoft.com/en-us/dotnet/api/microsoft.sqlserver.management.sqlparser.metadataprovider.systemdatatypelookupbase.sysname,6
 sysname,https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-helpsubscription-transact-sql,4
 sysname,https://docs.microsoft.com/en-us/sql/relational-databases/system-tables/mssubscription-properties-transact-sql,3
 trace,https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.trace,10
@@ -6190,7 +6029,6 @@ encapsulation,https://docs.microsoft.com/en-us/windows-hardware/drivers/network/
 encapsulation,https://docs.microsoft.com/en-us/openspecs/office_protocols/ms-grvhenc/670b65c7-edc4-439c-88b9-2f2ac66686fd,5
 encapsulation,https://docs.microsoft.com/en-us/cpp/cpp/pimpl-for-compile-time-encapsulation-modern-cpp,4
 encapsulation,https://docs.microsoft.com/en-us/openspecs/exchange_server_protocols/ms-oxcmail/59fd64a5-029c-4ec9-bee2-ecd61993bb13,3
-encapsulation,https://docs.microsoft.com/en-us/openspecs/exchange_server_protocols/ms-oxrtfex/3cf14977-3883-404a-8ed8-57c99263fb76,2
 encapsulation,https://docs.microsoft.com/en-us/windows-hardware/drivers/network/traversing-nats-and-napts-with-udp-encapsulated-esp-packets,1
 logo,https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/operations/change-the-company-logo-on-the-ad-fs-sign-in-page,10
 logo,https://docs.microsoft.com/en-us/windows-hardware/test/hlk/testref/6ab6df93-423c-4af6-ad48-8ea1049155ae,9
@@ -6202,10 +6040,8 @@ logo,https://docs.microsoft.com/en-us/windows-hardware/test/hlk/testref/9741a26f
 logo,https://docs.microsoft.com/en-us/windows/win32/win7appqual/certification-for-windows-7-and-windows-server-2008-r2-applications,3
 logo,https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/customize/change-color-scheme-add-logo-match-organizations-brand,1
 readfile,https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-readfile,10
-readfile,https://docs.microsoft.com/en-us/previous-versions/ms961338(v%3Dmsdn.10),8
 readfile,https://docs.microsoft.com/en-us/windows/win32/fileio/testing-for-the-end-of-a-file,7
 readfile,https://docs.microsoft.com/en-us/windows/console/high-level-console-input-and-output-functions,6
-readfile,https://docs.microsoft.com/en-us/dotnet/api/microsoft.hpc.azure.filestaging.client.ifilestagingclient.readfile,5
 readfile,https://docs.microsoft.com/en-us/windows/win32/ipc/named-pipe-client,4
 readfile,https://docs.microsoft.com/en-us/windows/win32/ipc/reading-from-a-mailslot,3
 readfile,https://docs.microsoft.com/en-us/windows/win32/winsock/socket-handles-2,2
@@ -6304,15 +6140,11 @@ header,https://docs.microsoft.com/en-us/playready/specifications/playready-heade
 header,https://docs.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/c9876f5a-664b-46a3-9887-ba63f113abf5,3
 header,https://docs.microsoft.com/en-us/cpp/build/reference/yc-create-precompiled-header-file,2
 header,https://docs.microsoft.com/en-us/partner-center/develop/headers,1
-runas,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc771525(v%3Dws.11),10
 runas,https://docs.microsoft.com/en-us/windows/win32/com/runas,9
 runas,https://docs.microsoft.com/en-us/windows-hardware/drivers/taef/runas,8
 runas,https://docs.microsoft.com/en-us/azure/automation/manage-runas-account,7
 runas,https://docs.microsoft.com/en-us/sysinternals/downloads/shellrunas,6
-runas,https://docs.microsoft.com/en-us/windows-hardware/drivers/taef/runas-restricted,4
-runas,https://docs.microsoft.com/en-us/windows-hardware/drivers/taef/runas-lowil,3
 runas,https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-application-runas-security,2
-runas,https://docs.microsoft.com/en-us/dotnet/api/microsoft.sharepoint.workflowactions.impersonationsequenceactivity.runas,1
 sysprep,https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/sysprep--generalize--a-windows-installation,10
 sysprep,https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/sysprep--system-preparation--overview,9
 sysprep,https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/sysprep-command-line-options,8
@@ -6349,7 +6181,6 @@ connector,https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-
 connector,https://docs.microsoft.com/en-us/connectors/keyvault/,1
 command prompt,https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands,10
 command prompt,https://docs.microsoft.com/en-us/dotnet/framework/tools/developer-command-prompt-for-vs,9
-command prompt,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj717276(v%3Dws.11),8
 command prompt,https://docs.microsoft.com/en-us/nuget/reference/nuget-exe-cli-reference,7
 command prompt,https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server-from-the-command-prompt,6
 command prompt,https://docs.microsoft.com/en-us/cpp/build/building-on-the-command-line,5
@@ -6414,7 +6245,6 @@ Sleep,https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.ut
 Sleep,https://docs.microsoft.com/en-us/windows-hardware/customize/power-settings/sleep-settings-sleep-unattended-idle-timeout,2
 Sleep,https://docs.microsoft.com/en-us/windows-hardware/customize/power-settings/power-button-and-lid-settings-sleep-button-action,1
 waitforsingleobject,https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-waitforsingleobject,10
-waitforsingleobject,https://docs.microsoft.com/en-us/previous-versions/ms915517(v%3Dmsdn.10),9
 waitforsingleobject,https://docs.microsoft.com/en-us/windows/win32/sync/using-event-objects,8
 waitforsingleobject,https://docs.microsoft.com/en-us/windows/win32/sync/using-semaphore-objects,7
 waitforsingleobject,https://docs.microsoft.com/en-us/windows/win32/sync/using-waitable-timer-objects,6
@@ -6424,11 +6254,6 @@ waitforsingleobject,https://docs.microsoft.com/en-us/windows/win32/procthread/te
 waitforsingleobject,https://docs.microsoft.com/en-us/office/vba/access/concepts/windows-api/determine-when-a-shelled-process-ends,2
 CreateEvent,https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-createeventa,10
 CreateEvent,https://docs.microsoft.com/en-us/windows/win32/sync/using-event-objects,9
-CreateEvent,https://docs.microsoft.com/en-us/previous-versions/ms959948(v%3Dmsdn.10),8
-CreateEvent,https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.typedescriptor.createevent,7
-CreateEvent,https://docs.microsoft.com/en-us/dotnet/api/system.workflow.componentmodel.design.imembercreationservice.createevent,5
-CreateEvent,https://docs.microsoft.com/en-us/dotnet/api/metal.mtldevice_extensions.createevent,3
-CreateEvent,https://docs.microsoft.com/en-us/dotnet/api/system.management.automation.pseventmanager.createevent,2
 declare,https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/declare-statement,10
 declare,https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/declaring-arrays,9
 declare,https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/declare-statement,8
@@ -6460,7 +6285,6 @@ stringbuilder,https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-g
 stringbuilder,https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder.-ctor,7
 stringbuilder,https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder.getchunks,6
 stringbuilder,https://docs.microsoft.com/en-us/dotnet/api/system.io.stringwriter.-ctor,5
-stringbuilder,https://docs.microsoft.com/en-us/dotnet/api/java.lang.stringbuilder,4
 stringbuilder,https://docs.microsoft.com/en-us/dotnet/api/system.data.common.dbconnectionstringbuilder.appendkeyvaluepair,3
 stringbuilder,https://docs.microsoft.com/en-us/aspnet/core/performance/objectpool,2
 stringbuilder,https://docs.microsoft.com/en-us/dotnet/api/system.io.stringwriter.writeasync,1
@@ -6471,7 +6295,6 @@ status,https://docs.microsoft.com/en-us/microsoftteams/presence-admins,7
 status,https://docs.microsoft.com/en-us/windows/deployment/windows-autopilot/enrollment-status,6
 status,https://docs.microsoft.com/en-us/windows/release-information/status-windows-10-1903,4
 status,https://docs.microsoft.com/en-us/intune/enrollment/windows-enrollment-status,3
-status,https://docs.microsoft.com/en-us/uwp/api/windows.media.speechrecognition.speechrecognitionresult.status,2
 status,https://docs.microsoft.com/en-us/windows/win32/winhttp/iwinhttprequest-status,1
 project online,https://docs.microsoft.com/en-us/office365/servicedescriptions/project-online-service-description/project-online-service-description,10
 project online,https://docs.microsoft.com/en-us/projectonline/get-started-with-project-online,9
@@ -6582,7 +6405,6 @@ summarize,https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-
 summarize,https://docs.microsoft.com/en-us/azure/kusto/query/shufflequery,7
 summarize,https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/aggregations,6
 summarize,https://docs.microsoft.com/en-us/sql/ssms/visual-db-tools/summarize-or-aggregate-values-for-all-rows-in-a-table-visual-database-tools,5
-summarize,https://docs.microsoft.com/en-us/dotnet/api/microsoft.dataprep.common.dataflow.summarize,4
 summarize,https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/summarize-data,3
 summarize,https://docs.microsoft.com/en-us/dax/groupby-function-dax,2
 summarize,https://docs.microsoft.com/en-us/configmgr/core/support/run-meter-summ,1
@@ -6624,10 +6446,8 @@ dark mode,https://docs.microsoft.com/en-us/windows-hardware/customize/desktop/se
 dark mode,https://docs.microsoft.com/en-us/xamarin/ios/platform/ios13/dark-mode,9
 dark mode,https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave1/business-intelligence/dark-mode,8
 dark mode,https://docs.microsoft.com/en-us/officeupdates/release-notes-office-for-mac,7
-dark mode,https://docs.microsoft.com/en-us/windows-hardware/customize/mobile/mcsf/start-theme-settings-enabling-dark-mode,6
 dark mode,https://docs.microsoft.com/en-us/officeupdates/release-notes-office-insider,5
 dark mode,https://docs.microsoft.com/en-us/samples/xamarin/ios-samples/ios13-adoptingiosdarkmode/,3
-dark mode,https://docs.microsoft.com/en-us/windows-hardware/customize/mobile/mcsf/light-or-dark-mode-in-email,1
 comments,https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/xmldoc/recommended-tags-for-documentation-comments,10
 comments,https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/xmldoc/,9
 comments,https://docs.microsoft.com/en-us/powerquery-m/comments,8
@@ -6775,10 +6595,7 @@ mod,https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/oper
 mod,https://docs.microsoft.com/en-us/dax/mod-function-dax,8
 mod,https://docs.microsoft.com/en-us/powerquery-m/number-mod,7
 mod,https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/mod-operator,6
-mod,https://docs.microsoft.com/en-us/dotnet/api/microsoft.spark.sql.column.mod,5
 mod,https://docs.microsoft.com/en-us/dynamicsax-2012/developer/arithmetic-operators,4
-mod,https://docs.microsoft.com/en-us/dotnet/api/java.math.biginteger.mod,3
-mod,https://docs.microsoft.com/en-us/dotnet/api/system.data.sqltypes.sqlbyte.mod,1
 forgot password,https://docs.microsoft.com/en-us/azure/active-directory/user-help/active-directory-passwords-update-your-own-password,10
 forgot password,https://docs.microsoft.com/en-us/office365/admin/add-users/reset-passwords,9
 forgot password,https://docs.microsoft.com/en-us/power-bi/service-admin-forgot-your-password,8
@@ -6820,10 +6637,6 @@ unique,https://docs.microsoft.com/en-us/azure/cosmos-db/unique-keys,2
 unique,https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/properties/devenv-unique-property,1
 GetProcAddress,https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getprocaddress,10
 GetProcAddress,https://docs.microsoft.com/en-us/cpp/build/getprocaddress,9
-GetProcAddress,https://docs.microsoft.com/en-us/dotnet/api/opentk.audio.openal.al.getprocaddress,7
-GetProcAddress,https://docs.microsoft.com/en-us/dotnet/api/opentk.audio.openal.alc.getprocaddress,6
-GetProcAddress,https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/hosting/iclrruntimeinfo-getprocaddress-method,5
-GetProcAddress,https://docs.microsoft.com/en-us/windows/win32/devnotes/-getprocaddress-,3
 GetProcAddress,https://docs.microsoft.com/en-us/windows/win32/dlls/run-time-dynamic-linking,1
 tasks,https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/,10
 tasks,https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task,9
@@ -6870,13 +6683,11 @@ strings,https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens
 strings,https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-functions-string,3
 strings,https://docs.microsoft.com/en-us/dotnet/api/system.string,2
 strings,https://docs.microsoft.com/en-us/dotnet/standard/base-types/custom-date-and-time-format-strings,1
-clear,https://docs.microsoft.com/en-us/dotnet/api/system.collections.collectionbase.clear,8
 clear,https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/functions/function-clear-collect-clearcollect,7
 clear,https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2.clear,6
 clear,https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icollection-1.clear,5
 clear,https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.hashset-1.clear,4
 clear,https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.sorteddictionary-2.clear,3
-clear,https://docs.microsoft.com/en-us/dotnet/api/system.web.staticsitemapprovider.clear,2
 clear,https://docs.microsoft.com/en-us/azure-advanced-threat-protection/atp-cas-isp-clear-text,1
 worksheet,https://docs.microsoft.com/en-us/office/vba/api/excel.worksheet,10
 worksheet,https://docs.microsoft.com/en-us/azure-stack/operator/azure-stack-deployment-worksheet,9
@@ -6891,17 +6702,13 @@ worksheet,https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-pre
 WriteFile,https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-writefile,10
 WriteFile,https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.fileresult.writefile,8
 WriteFile,https://docs.microsoft.com/en-us/dotnet/api/system.web.httpresponse.writefile,7
-WriteFile,https://docs.microsoft.com/en-us/dotnet/api/system.web.httpresponsebase.writefile,6
 WriteFile,https://docs.microsoft.com/en-us/windows/win32/fileio/opening-a-file-for-reading-or-writing,5
 WriteFile,https://docs.microsoft.com/en-us/windows/console/high-level-console-input-and-output-functions,4
-WriteFile,https://docs.microsoft.com/en-us/previous-versions/ms942861(v%3Dmsdn.10),3
-WriteFile,https://docs.microsoft.com/en-us/dotnet/api/system.web.httpresponsewrapper.writefile,2
 WriteFile,https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-flushfilebuffers,1
 windows 8,https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-8,10
 windows 8,https://docs.microsoft.com/en-us/dotnet/framework/install/dotnet-35-windows-10,8
 windows 8,https://docs.microsoft.com/en-us/security-updates/securityadvisories/2016/2755801,7
 windows 8,https://docs.microsoft.com/en-us/iis/application-frameworks/running-classic-asp-applications-on-iis-7-and-iis-8/classic-asp-not-installed-by-default-on-iis,6
-windows 8,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj613767(v%3Dws.11),5
 windows 8,https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys,4
 windows 8,https://docs.microsoft.com/en-us/windows-hardware/drivers/other-wdk-downloads,3
 windows 8,https://docs.microsoft.com/en-us/typography/fonts/windows_8_font_list,2
@@ -6933,7 +6740,6 @@ web service,https://docs.microsoft.com/en-us/office365/enterprise/managing-offic
 web service,https://docs.microsoft.com/en-us/azure/machine-learning/how-to-consume-web-service,6
 web service,https://docs.microsoft.com/en-us/sql/reporting-services/report-server-web-service/report-server-web-service,5
 web service,https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/webservices/web-services,4
-web service,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831822(v%3Dws.11),3
 web service,https://docs.microsoft.com/en-us/dotnet/core/additional-tools/wcf-web-service-reference-guide,2
 web service,https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-and-where,1
 cosmos,https://docs.microsoft.com/en-us/azure/cosmos-db/,10
@@ -7076,7 +6882,6 @@ WSUS,https://docs.microsoft.com/en-us/windows-server/administration/windows-serv
 WSUS,https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/plan/plan-your-wsus-deployment,9
 WSUS,https://docs.microsoft.com/en-us/windows/deployment/update/waas-manage-updates-wsus,8
 WSUS,https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/deploy/deploy-windows-server-update-services,7
-WSUS,https://docs.microsoft.com/en-us/previous-versions/windows/desktop/ms744624(v%3Dvs.85),6
 WSUS,https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/deploy/1-install-the-wsus-server-role,5
 WSUS,https://docs.microsoft.com/en-us/configmgr/protect/deploy-use/endpoint-definitions-wsus,1
 new,https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/new-operator,9
@@ -7197,14 +7002,12 @@ filestream,https://docs.microsoft.com/en-us/dotnet/api/system.io.file.create,4
 filestream,https://docs.microsoft.com/en-us/sql/relational-databases/blob/configure-a-firewall-for-filestream-access,3
 filestream,https://docs.microsoft.com/en-us/sql/relational-databases/system-functions/filestream-and-filetable-functions-transact-sql,2
 filestream,https://docs.microsoft.com/en-us/sql/database-engine/availability-groups/windows/filestream-and-filetable-with-always-on-availability-groups-sql-server,1
-priority,https://docs.microsoft.com/en-us/windows/win32/api/taskschd/nf-taskschd-itasksettings-get_priority,9
 priority,https://docs.microsoft.com/en-us/azure/batch/batch-low-pri-vms,8
 priority,https://docs.microsoft.com/en-us/azure/architecture/patterns/priority-queue,7
 priority,https://docs.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/increase-scheduling-priority,6
 priority,https://docs.microsoft.com/en-us/windows/win32/procthread/priority-boosts,5
 priority,https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-priority-routing-method,4
 priority,https://docs.microsoft.com/en-us/windows/win32/procthread/priority-inversion,3
-priority,https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualstudio.text.classification.priority,2
 priority,https://docs.microsoft.com/en-us/windows/win32/api/wtsapi32/nf-wtsapi32-wtsvirtualchannelopenex,1
 agent,https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted,10
 agent,https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/agents,9
@@ -7218,12 +7021,8 @@ agent,https://docs.microsoft.com/en-us/microsoft-edge/web-platform/user-agent-st
 agent,https://docs.microsoft.com/en-us/azure/devops/pipelines/process/demands,1
 certificate authority,https://docs.microsoft.com/en-us/windows/win32/seccertenroll/about-certification-authorities,10
 certificate authority,https://docs.microsoft.com/en-us/windows/win32/adschema/a-certificateauthorityobject,9
-certificate authority,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831574(v%3Dws.11),8
 certificate authority,https://docs.microsoft.com/en-us/dotnet/framework/wcf/feature-details/specify-the-certificate-authority-chain-verify-signatures-wcf,7
-certificate authority,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831740(v%3Dws.11),6
-certificate authority,https://docs.microsoft.com/en-us/skypeforbusiness/help-topics/help-depwiz/certificate-request-certificate-authority-account,5
 certificate authority,https://docs.microsoft.com/en-us/windows-server/networking/core-network-guide/cncg/server-certs/install-the-certification-authority,4
-certificate authority,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831649(v%3Dws.11),3
 certificate authority,https://docs.microsoft.com/en-us/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started,2
 certificate authority,https://docs.microsoft.com/en-us/intune/protect/certificates-scep-configure,1
 msgbox vba,https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/msgbox-function,10
@@ -7238,14 +7037,10 @@ msgbox vba,https://docs.microsoft.com/en-us/office/vba/api/excel.range.address,2
 msgbox vba,https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualbasic.interaction.msgbox,1
 windows deployment services,https://docs.microsoft.com/en-us/windows/win32/wds/windows-deployment-services-portal,10
 windows deployment services,https://docs.microsoft.com/en-us/windows/deployment/windows-deployment-scenarios-and-tools,9
-windows deployment services,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj648426(v%3Dws.11),8
-windows deployment services,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831764(v%3Dws.11),7
 windows deployment services,https://docs.microsoft.com/en-us/windows/deployment/deploy-windows-mdt/deploy-a-windows-10-image-using-mdt,6
 windows deployment services,https://docs.microsoft.com/en-us/windows/win32/wds/about-the-windows-deployment-services-api,5
 windows deployment services,https://docs.microsoft.com/en-us/windows/deployment/deploy-windows-mdt/deploy-windows-10-with-the-microsoft-deployment-toolkit,4
 windows deployment services,https://docs.microsoft.com/en-us/configmgr/osd/plan-design/infrastructure-requirements-for-operating-system-deployment,3
-windows deployment services,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/mt670791(v%3Dws.11),2
-windows deployment services,https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-wdsmsi/36293e5a-53f0-49a1-b657-bd4d1925c5c9,1
 ssdt,https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt,10
 ssdt,https://docs.microsoft.com/en-us/sql/ssdt/sql-server-data-tools,9
 ssdt,https://docs.microsoft.com/en-us/sql/ssdt/previous-releases-of-sql-server-data-tools-ssdt-and-ssdt-bi,8
@@ -7299,7 +7094,6 @@ send,https://docs.microsoft.com/en-us/sql/t-sql/statements/send-transact-sql,9
 send,https://docs.microsoft.com/en-us/exchange/create-a-send-connector-for-email-sent-to-the-internet-exchange-2013-help,8
 send,https://docs.microsoft.com/en-us/dotnet/api/system.net.sockets.socket.send,7
 send,https://docs.microsoft.com/en-us/dotnet/api/microsoft.office.interop.outlook._mailitem.send,6
-send,https://docs.microsoft.com/en-us/previous-versions/windows/desktop/ms755436(v%3Dvs.85),5
 send,https://docs.microsoft.com/en-us/exchange/mail-flow/connectors/internet-mail-send-connectors,4
 send,https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-3,3
 send,https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/dynamics365-marketing/quick-send,2
@@ -7340,7 +7134,6 @@ SetTimer,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-s
 SetTimer,https://docs.microsoft.com/en-us/windows/win32/winmsg/using-timers,9
 SetTimer,https://docs.microsoft.com/en-us/windows/win32/api/mfidl/nf-mfidl-imftimer-settimer,7
 SetTimer,https://docs.microsoft.com/en-us/windows/win32/winmsg/about-timers,5
-SetTimer,https://docs.microsoft.com/en-us/dotnet/api/corefoundation.dispatchsource.timer.settimer,3
 public,https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/public,10
 public,https://docs.microsoft.com/en-us/azure/dns/dns-getstarted-portal,9
 public,https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/accessibility-levels,8
@@ -7358,9 +7151,7 @@ ipconfig,https://docs.microsoft.com/en-us/windows/win32/api/iphlpapi/nf-iphlpapi
 ipconfig,https://docs.microsoft.com/en-us/windows-server/networking/dns/troubleshoot/disable-dns-client-side-caching,6
 ipconfig,https://docs.microsoft.com/en-us/sysinternals/downloads/psexec,5
 ipconfig,https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-multiple-ip-addresses-powershell,4
-ipconfig,https://docs.microsoft.com/en-us/azure-sphere/reference/applibs-reference/applibs-networking/function-networking-ipconfig-enabledynamicip,3
 ipconfig,https://docs.microsoft.com/en-us/windows-server/networking/dns/troubleshoot/troubleshoot-dns-client,2
-ipconfig,https://docs.microsoft.com/en-us/javascript/api/%40azure/arm-storsimple1200series/ipconfig,1
 exists,https://docs.microsoft.com/en-us/sql/t-sql/language-elements/exists-transact-sql,10
 exists,https://docs.microsoft.com/en-us/dotnet/api/system.io.file.exists,9
 exists,https://docs.microsoft.com/en-us/sql/mdx/exists-mdx,8
@@ -7379,7 +7170,6 @@ duration,https://docs.microsoft.com/en-us/dotnet/api/system.windows.duration,6
 duration,https://docs.microsoft.com/en-us/powerquery-m/duration-totalminutes,5
 duration,https://docs.microsoft.com/en-us/powerquery-m/duration-totalhours,4
 duration,https://docs.microsoft.com/en-us/powerquery-m/duration-totext,3
-duration,https://docs.microsoft.com/en-us/office/vba/api/outlook.recurrencepattern.duration,2
 duration,https://docs.microsoft.com/en-us/powerquery-m/duration-torecord,1
 2019,https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes,10
 2019,https://docs.microsoft.com/en-us/sql/sql-server/editions-and-components-of-sql-server-version-15,9
@@ -7396,7 +7186,6 @@ strlen,https://docs.microsoft.com/en-us/azure/kusto/query/strlenfunction,8
 strlen,https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/methods-auto/text/text-strlen-method,7
 strlen,https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/strnlen-strnlen-s,5
 strlen,https://docs.microsoft.com/en-us/dynamics-nav/maxstrlen-function--code--text-,4
-strlen,https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/methods-auto/text/text-maxstrlen-variant-method,2
 ssas,https://docs.microsoft.com/en-us/analysis-services/analysis-services-overview,10
 ssas,https://docs.microsoft.com/en-us/openspecs/sql_server_protocols/ms-ssas-t/f85cd3b9-690c-4bc7-a1f0-a854d7daecd8,9
 ssas,https://docs.microsoft.com/en-us/analysis-services/server-properties/server-properties-in-analysis-services,8
@@ -7424,7 +7213,6 @@ oracle,https://docs.microsoft.com/en-us/power-bi/service-gateway-onprem-manage-o
 oracle,https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/oracle-cloud-tutorial,5
 oracle,https://docs.microsoft.com/en-us/sql/ssma/oracle/installing-ssma-for-oracle-client-oracletosql,4
 oracle,https://docs.microsoft.com/en-us/sql/integration-services/data-flow/oracle-connector,3
-oracle,https://docs.microsoft.com/en-us/biztalk/adapters-and-accelerators/adapter-oracle-ebs/microsoft-biztalk-adapter-for-oracle-e-business-suite-documentation,2
 oracle,https://docs.microsoft.com/en-us/sql/ssma/oracle/sql-server-migration-assistant-for-oracle-oracletosql,1
 integration,https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services,10
 integration,https://docs.microsoft.com/en-us/power-platform/admin/data-integrator,9
@@ -7469,7 +7257,6 @@ findset,https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/
 findset,https://docs.microsoft.com/en-us/dynamics-nav/findset-function--recordref-,8
 findset,https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/methods-auto/record/record-findset-method,7
 findset,https://docs.microsoft.com/en-us/dynamics-nav/c-al-database-functions-and-performance-on-sql-server,6
-findset,https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.infrastructure.relationalmodelcustomizer.findsets,5
 microsoft word,https://docs.microsoft.com/en-us/office/dev/add-ins/word/word-add-ins-programming-overview,10
 microsoft word,https://docs.microsoft.com/en-us/learn/certifications/exams/mo-100,9
 microsoft word,https://docs.microsoft.com/en-us/office/troubleshoot/word/issues-when-start-or-use-word,8
@@ -7508,14 +7295,11 @@ blockchain,https://docs.microsoft.com/en-us/samples/azure-samples/blockchain-dev
 blockchain,https://docs.microsoft.com/en-us/azure/blockchain/workbench/deploy,3
 blockchain,https://docs.microsoft.com/en-us/azure/blockchain/workbench/overview,2
 blockchain,https://docs.microsoft.com/en-us/azure/blockchain/service/connect-vscode,1
-net use,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/gg651155(v%3Dws.11),10
 net use,https://docs.microsoft.com/en-us/iis/publish/using-webdav/using-the-webdav-redirector,9
 net use,https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-psdrive,8
 net use,https://docs.microsoft.com/en-us/archive/msdn-magazine/2018/march/asp-net-use-razor-to-generate-html-for-templates-in-a-single-page-app,7
-net use,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc771865(v%3Dws.11),6
 net use,https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/-netuse--control-network-connections-,5
 net use,https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/using-statement,4
-net use,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh750729(v%3Dws.11),3
 net use,https://docs.microsoft.com/en-us/azure/storage/files/storage-troubleshoot-windows-file-connection-problems,2
 net use,https://docs.microsoft.com/en-us/archive/msdn-magazine/2016/june/asp-net-use-custom-middleware-to-detect-and-fix-404s-in-asp-net-core-apps,1
 tree,https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-decomposition-tree,10
@@ -7529,8 +7313,6 @@ tree,https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/e
 tree,https://docs.microsoft.com/en-us/windows/win32/winauto/uiauto-treeoverview,2
 tree,https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/analytics/financial-reporting-tree-definitions,1
 FindWindow,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-findwindowa,10
-FindWindow,https://docs.microsoft.com/en-us/dynamics365/unified-service-desk/find-window-tag,7
-FindWindow,https://docs.microsoft.com/en-us/dynamics365/unified-service-desk/find-window-search-path-tag,6
 drop down,https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/controls/control-drop-down,10
 drop down,https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/d/drop-down,9
 drop down,https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/dependent-drop-down-lists,8
@@ -7558,7 +7340,6 @@ line numbers,https://docs.microsoft.com/en-us/office/vba/api/word.pagesetup.line
 line numbers,https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/preprocessor-directives/preprocessor-line,5
 line numbers,https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/fc,4
 line numbers,https://docs.microsoft.com/en-us/sql/ssms/scripting/manage-the-editor-and-view-mode,3
-line numbers,https://docs.microsoft.com/en-us/cpp/error-messages/compiler-warnings/compiler-warning-level-1-c4049,2
 line numbers,https://docs.microsoft.com/en-us/sql/t-sql/functions/row-number-transact-sql,1
 percentage,https://docs.microsoft.com/en-us/visualstudio/test/how-to-specify-the-percentage-of-virtual-users-that-use-web-cache-data,10
 percentage,https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.unit.percentage,9
@@ -7568,7 +7349,6 @@ percentage,https://docs.microsoft.com/en-us/dynamicsax-2012/appuser-itpro/create
 percentage,https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/percent-percentage,5
 percentage,https://docs.microsoft.com/en-us/azure/monitoring/infrastructure-health/vmhealth-windows/winserver-processor-cpudpctime,4
 percentage,https://docs.microsoft.com/en-us/office/vba/api/word.zoom.percentage,3
-percentage,https://docs.microsoft.com/en-us/windows/uwp/monetize/update-the-package-rollout-percentage-for-an-app-submission,2
 percentage,https://docs.microsoft.com/en-us/sql/reporting-services/report-design/display-percentage-values-on-a-pie-chart-report-builder-and-ssrs,1
 az900,https://docs.microsoft.com/en-us/learn/certifications/exams/az-900,10
 az900,https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals,9
@@ -7607,14 +7387,12 @@ assembly,https://docs.microsoft.com/en-us/dotnet/api/system.reflection.assembly,
 assembly,https://docs.microsoft.com/en-us/dotnet/standard/assembly/,9
 assembly,https://docs.microsoft.com/en-us/dotnet/standard/assembly/file-format,8
 assembly,https://docs.microsoft.com/en-us/dotnet/framework/tools/fuslogvw-exe-assembly-binding-log-viewer,7
-assembly,https://docs.microsoft.com/en-us/sharepoint/dev/schema/assembly-element-solutionassemblies,6
 assembly,https://docs.microsoft.com/en-us/dotnet/api/system.type.assemblyqualifiedname,5
 assembly,https://docs.microsoft.com/en-us/dotnet/framework/app-domains/build-multifile-assembly,4
 assembly,https://docs.microsoft.com/en-us/dotnet/standard/assembly/strong-named,3
 assembly,https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-assemblies-and-dlls,2
 assembly,https://docs.microsoft.com/en-us/sql/t-sql/functions/assemblyproperty-transact-sql,1
 GetModuleHandle,https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getmodulehandlea,10
-GetModuleHandle,https://docs.microsoft.com/en-us/previous-versions/ms908443(v%3Dmsdn.10),9
 GetModuleHandle,https://docs.microsoft.com/en-us/windows/win32/dlls/run-time-dynamic-linking,8
 GetModuleHandle,https://docs.microsoft.com/en-us/dotnet/api/system.runtimetypehandle.getmodulehandle,7
 GetModuleHandle,https://docs.microsoft.com/en-us/windows/win32/wininet/appendix-c-handling-errors,6
@@ -7640,7 +7418,6 @@ activesheet,https://docs.microsoft.com/en-us/dotnet/api/microsoft.office.tools.e
 activesheet,https://docs.microsoft.com/en-us/office/vba/api/excel.window.activesheet,6
 activesheet,https://docs.microsoft.com/en-us/office/vba/api/excel.worksheet.range,4
 activesheet,https://docs.microsoft.com/en-us/office/vba/api/excel.worksheet,3
-activesheet,https://docs.microsoft.com/en-us/dotnet/api/microsoft.office.interop.excel.window.activesheet,2
 powershell commands,https://docs.microsoft.com/en-us/powershell/scripting/overview,10
 powershell commands,https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/get-command,9
 powershell commands,https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/try-hyper-v-powershell,8
@@ -7660,7 +7437,6 @@ writeline,https://docs.microsoft.com/en-us/dotnet/api/system.activities.statemen
 writeline,https://docs.microsoft.com/en-us/visualstudio/workflow-designer/writeline-activity-designer,4
 writeline,https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualbasic.filesystem.writeline,3
 writeline,https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.debug.writeline,2
-writeline,https://docs.microsoft.com/en-us/dotnet/api/system.management.automation.host.pshostuserinterface.writeline,1
 offline,https://docs.microsoft.com/en-us/dynamics365/outlook-addin/user-guide/work-offline-dynamics-365-outlook,10
 offline,https://docs.microsoft.com/en-us/visualstudio/install/create-an-offline-installation-of-visual-studio,9
 offline,https://docs.microsoft.com/en-us/azure-stack/operator/azure-stack-app-service-deploy-offline,8
@@ -7672,8 +7448,6 @@ offline,https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/re
 offline,https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/offline-apps,2
 offline,https://docs.microsoft.com/en-us/services-hub/health/disconnectedenvironment,1
 findwindow,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-findwindowa,10
-findwindow,https://docs.microsoft.com/en-us/dynamics365/unified-service-desk/find-window-tag,7
-findwindow,https://docs.microsoft.com/en-us/dynamics365/unified-service-desk/find-window-search-path-tag,6
 epic,https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/define-features-epics,10
 epic,https://docs.microsoft.com/en-us/azure/devops/boards/boards/kanban-epics-features-stories,9
 epic,https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/organize-backlog,8
@@ -7714,7 +7488,6 @@ dfs,https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/choos
 dfs,https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/create-a-dfs-namespace,2
 dfs,https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/create-a-folder-in-a-dfs-namespace,1
 wsprintf,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-wsprintfa,10
-wsprintf,https://docs.microsoft.com/en-us/previous-versions/ms942863(v%3Dmsdn.10),9
 wsprintf,https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/sprintf-sprintf-l-swprintf-swprintf-l-swprintf-l,7
 wsprintf,https://docs.microsoft.com/en-us/windows/win32/menurc/strsafe-ovw,6
 wsprintf,https://docs.microsoft.com/en-us/windows/win32/api/strsafe/nf-strsafe-stringcchprintfw,5
@@ -7801,7 +7574,6 @@ credential,https://docs.microsoft.com/en-us/windows/security/identity-protection
 malloc,https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/malloc,10
 malloc,https://docs.microsoft.com/en-us/visualstudio/code-quality/c6011,7
 malloc,https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/aligned-malloc,6
-malloc,https://docs.microsoft.com/en-us/dotnet/api/corefoundation.cfallocator.malloc,5
 malloc,https://docs.microsoft.com/en-us/visualstudio/debugger/debug-versions-of-heap-allocation-functions,4
 malloc,https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/free,3
 malloc,https://docs.microsoft.com/en-us/windows/win32/memory/comparing-memory-allocation-methods,2
@@ -7847,9 +7619,7 @@ mkdir,https://docs.microsoft.com/en-us/windows-server/administration/windows-com
 mkdir,https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/mkdir-statement,9
 mkdir,https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualbasic.filesystem.mkdir,8
 mkdir,https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/mkdir,7
-mkdir,https://docs.microsoft.com/en-us/dotnet/api/android.systems.os.mkdir,5
 mkdir,https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ftp-mkdir,4
-mkdir,https://docs.microsoft.com/en-us/dotnet/api/java.io.file.mkdir,2
 ip address,https://docs.microsoft.com/en-us/office365/enterprise/urls-and-ip-address-ranges,10
 ip address,https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-ip-addresses-overview-arm,9
 ip address,https://docs.microsoft.com/en-us/azure/virtual-network/what-is-ip-address-168-63-129-16,8
@@ -7893,7 +7663,6 @@ DNS,https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-overvie
 echo,https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debug-universal-drivers---step-by-step-lab--echo-kernel-mode-,10
 echo,https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/-echo--echo-comment-,8
 echo,https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpeeco/dd36d1eb-2e97-4b24-b4a3-0ca68d500521,7
-echo,https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb2/2abe9b3c-c5ab-417f-bcc3-9ab51f2fce35,6
 echo,https://docs.microsoft.com/en-us/office/client-developer/access/desktop-database-reference/echo-macro-action,5
 echo,https://docs.microsoft.com/en-us/office/vba/api/access.application.echo,3
 echo,https://docs.microsoft.com/en-us/office/vba/api/access.docmd.echo,2
@@ -7992,7 +7761,6 @@ plugin,https://docs.microsoft.com/en-us/java/api/overview/azure/maven/azure-weba
 plugin,https://docs.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/plugins/share-plugin,2
 plugin,https://docs.microsoft.com/en-us/visualstudio/cross-platform/tools-for-cordova/take-further/using-plugins,1
 MultiByteToWideChar,https://docs.microsoft.com/en-us/windows/win32/api/stringapiset/nf-stringapiset-multibytetowidechar,10
-MultiByteToWideChar,https://docs.microsoft.com/en-us/previous-versions/ms961248(v%3Dmsdn.10),8
 MultiByteToWideChar,https://docs.microsoft.com/en-us/windows/win32/winauto/converting-unicode-and-ansi-strings,7
 MultiByteToWideChar,https://docs.microsoft.com/en-us/windows/win32/intl/translation-between-string-types,6
 MultiByteToWideChar,https://docs.microsoft.com/en-us/windows/win32/intl/security-considerations--international-features,5
@@ -8023,7 +7791,6 @@ for next,https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference
 Group Policy,https://docs.microsoft.com/en-us/windows/win32/srvnodes/group-policy,10
 Group Policy,https://docs.microsoft.com/en-us/previous-versions/windows/desktop/policy/group-policy-objects,9
 Group Policy,https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/deploy-windows-defender-application-control-policies-using-group-policy,8
-Group Policy,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831791(v%3Dws.11),7
 Group Policy,https://docs.microsoft.com/en-us/onedrive/use-group-policy,5
 Group Policy,https://docs.microsoft.com/en-us/deployoffice/teams-install,4
 Group Policy,https://docs.microsoft.com/en-us/deployedge/microsoft-edge-policies,3
@@ -8084,7 +7851,6 @@ attachments,https://docs.microsoft.com/en-us/exchange/client-developer/exchange-
 attachments,https://docs.microsoft.com/en-us/exchange/use-transport-rules-to-inspect-message-attachments-exchange-2013-help,1
 learn businessapps,https://docs.microsoft.com/en-us/learn/modules/m365-office-lob-apps/,10
 learn businessapps,https://docs.microsoft.com/en-us/intune/developer/apps-prepare-mobile-application-management,8
-learn businessapps,https://docs.microsoft.com/en-us/learn/certifications/posts/build-and-certify-expertise-with-microsoft-dynamics-365-intelligent-business-apps,7
 learn businessapps,https://docs.microsoft.com/en-us/microsoftteams/manage-your-lob-apps,6
 learn businessapps,https://docs.microsoft.com/en-us/powerapps/maker/dev-community-plan,4
 learn businessapps,https://docs.microsoft.com/en-us/microsoft-store/working-with-line-of-business-apps,3
@@ -8112,15 +7878,11 @@ area,https://docs.microsoft.com/en-us/xamarin/xamarin-forms/platform/ios/page-sa
 css,https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/styles/css/,8
 css,https://docs.microsoft.com/en-us/powerapps/maker/portals/edit-css,3
 createthread,https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createthread,10
-createthread,https://docs.microsoft.com/en-us/previous-versions/ms939170(v%3Dmsdn.10),9
 createthread,https://docs.microsoft.com/en-us/windows/win32/procthread/creating-threads,8
 createthread,https://docs.microsoft.com/en-us/windows/win32/api/ntsecpkg/nc-ntsecpkg-lsa_create_thread,7
-createthread,https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/dbgeng/nf-dbgeng-idebugeventcallbackswide-createthread,6
 createthread,https://docs.microsoft.com/en-us/cpp/mfc/reference/cwinthread-class,5
 createthread,https://docs.microsoft.com/en-us/windows/win32/sync/using-mutex-objects,4
-createthread,https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/debugging/icordebugmanagedcallback-createthread-method,3
 createthread,https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-terminatethread,2
-createthread,https://docs.microsoft.com/en-us/windows/win32/directshow/cmsgthread-createthread,1
 cloud,https://docs.microsoft.com/en-us/learn/paths/secure-your-cloud-data/,10
 cloud,https://docs.microsoft.com/en-us/azure/cloud-shell/overview,9
 cloud,https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/,8
@@ -8174,14 +7936,12 @@ delve,https://docs.microsoft.com/en-us/dynamics365/admin/enable-office-delve,8
 delve,https://docs.microsoft.com/en-us/office365/enterprise/office-365-isolation-in-graph-and-delve,7
 delve,https://docs.microsoft.com/en-us/sharepoint/hybrid/plan-hybrid-profiles,6
 delve,https://docs.microsoft.com/en-us/onedrive/help-users-use-discover-view,5
-delve,https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/admin/enable-office-delve,4
 delve,https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features,3
 delve,https://docs.microsoft.com/en-us/sharepoint/manage-search-schema,2
 delve,https://docs.microsoft.com/en-us/sharepoint/manage-user-profiles,1
 HWND,https://docs.microsoft.com/en-us/cpp/mfc/relationship-between-a-cpp-window-object-and-an-hwnd,10
 HWND,https://docs.microsoft.com/en-us/office/vba/api/access.form.hwnd,8
 HWND,https://docs.microsoft.com/en-us/dotnet/api/microsoft.office.interop.excel._application.hwnd,7
-HWND,https://docs.microsoft.com/en-us/dotnet/api/system.windows.interop.msg.hwnd,6
 HWND,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getparent,5
 HWND,https://docs.microsoft.com/en-us/office/vba/api/excel.application.hwnd,4
 HWND,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-setwindowpos,3
@@ -8189,7 +7949,6 @@ HWND,https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.message.hw
 HWND,https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-ischild,1
 rows,https://docs.microsoft.com/en-us/dotnet/api/microsoft.office.interop.word.rows,10
 rows,https://docs.microsoft.com/en-us/analysis-services/tutorial-tabular-1400/as-supplemental-lesson-detail-rows,9
-rows,https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.primitives.uniformgrid.rows,8
 rows,https://docs.microsoft.com/en-us/dotnet/framework/wpf/controls/how-to-resize-rows-with-a-gridsplitter,7
 rows,https://docs.microsoft.com/en-us/office/vba/api/excel.application.rows,6
 rows,https://docs.microsoft.com/en-us/rest/api/power-bi/pushdatasets/datasets_postrows,5
@@ -8215,7 +7974,6 @@ connection,https://docs.microsoft.com/en-us/azure/devops/pipelines/library/conne
 connection,https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/add-data-connection,3
 connection,https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/configure-connection-roles,2
 connection,https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/connection-strings-and-configuration-files,1
-hide,https://docs.microsoft.com/en-us/uwp/api/windows.ui.xaml.controls.primitives.flyoutbase.hide,10
 hide,https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/hide-an-instance-of-sql-server-database-engine,9
 hide,https://docs.microsoft.com/en-us/sharepoint/hide-app-tiles-on-app-launcher,8
 hide,https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-security-center/wdsc-hide-notifications,7
@@ -8230,7 +7988,6 @@ order by,https://docs.microsoft.com/en-us/azure/kusto/query/orderoperator,9
 order by,https://docs.microsoft.com/en-us/azure/cosmos-db/sql-query-order-by,7
 order by,https://docs.microsoft.com/en-us/u-sql/statements-and-expressions/order-by-and-offset-fetch-clause,6
 order by,https://docs.microsoft.com/en-us/dax/dax-queries,5
-order by,https://docs.microsoft.com/en-us/azure/search/search-query-odata-orderby,4
 order by,https://docs.microsoft.com/en-us/sql/mdx/order-mdx,3
 order by,https://docs.microsoft.com/en-us/windows/win32/search/-search-sql-orderby,2
 order by,https://docs.microsoft.com/en-us/power-bi/desktop-sort-by-column,1
@@ -8256,11 +8013,7 @@ isnumeric,https://docs.microsoft.com/en-us/office/vba/language/reference/user-in
 isnumeric,https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/functions/function-isnumeric,8
 isnumeric,https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualbasic.information.isnumeric,7
 isnumeric,https://docs.microsoft.com/en-us/dotnet/api/system.data.objects.sqlclient.sqlfunctions.isnumeric,6
-isnumeric,https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualbasic.compilerservices.versioned.isnumeric,5
-isnumeric,https://docs.microsoft.com/en-us/dotnet/api/microsoft.toolkit.extensions.stringextensions.isnumeric,4
 isnumeric,https://docs.microsoft.com/en-us/dotnet/api/system.data.entity.sqlserver.sqlfunctions.isnumeric,3
-isnumeric,https://docs.microsoft.com/en-us/dotnet/api/microsoft.biztalk.basefunctoids.basefunctoid.isnumeric,2
-isnumeric,https://docs.microsoft.com/en-us/dotnet/api/nunit.framework.internal.typehelper.isnumeric,1
 edge,https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide,10
 edge,https://docs.microsoft.com/en-us/microsoft-edge/extensions/guides/adding-and-removing-extensions,9
 edge,https://docs.microsoft.com/en-us/deployedge/microsoft-edge-policies,8
@@ -8274,7 +8027,6 @@ edge,https://docs.microsoft.com/en-us/microsoft-edge/,1
 printing,https://docs.microsoft.com/en-us/windows/win32/printdocs/printdocs-printing,10
 printing,https://docs.microsoft.com/en-us/uwp/api/windows.graphics.printing,8
 printing,https://docs.microsoft.com/en-us/office/troubleshoot/word/print-failures-in-word,7
-printing,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj134191(v%3Dws.11),6
 printing,https://docs.microsoft.com/en-us/windows-hardware/drivers/print/introduction-to-printing,5
 printing,https://docs.microsoft.com/en-us/dotnet/api/system.drawing.printing.pagesettings,4
 printing,https://docs.microsoft.com/en-us/dotnet/api/system.printing,3
@@ -8285,10 +8037,6 @@ PSCredential,https://docs.microsoft.com/en-us/powershell/module/microsoft.powers
 PSCredential,https://docs.microsoft.com/en-us/dotnet/api/system.management.automation.pscredential.-ctor,8
 PSCredential,https://docs.microsoft.com/en-us/dotnet/api/system.management.automation.pscredential.username,7
 PSCredential,https://docs.microsoft.com/en-us/dotnet/api/system.management.automation.pscredential.op_explicit,6
-PSCredential,https://docs.microsoft.com/en-us/dotnet/api/microsoft.powershell.management.activities.restartcomputer.pscredential,5
-PSCredential,https://docs.microsoft.com/en-us/dotnet/api/microsoft.identityserver.management.commands.multinodetaskmanagement.ifarmnodetaskaction.executefarmnodetask,4
-PSCredential,https://docs.microsoft.com/en-us/dotnet/api/microsoft.powershell.activities.activityimplementationcontext.pscredential,3
-PSCredential,https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-psrp/a7c91a93-ee59-4af0-8a67-a9361af9870e,2
 PSCredential,https://docs.microsoft.com/en-us/azure/automation/shared-resources/credentials,1
 saml,https://docs.microsoft.com/en-us/azure/active-directory/develop/single-sign-on-saml-protocol,10
 saml,https://docs.microsoft.com/en-us/dotnet/framework/wcf/feature-details/saml-tokens-and-claims,9
@@ -8334,8 +8082,6 @@ robocopy gui,https://docs.microsoft.com/en-us/windows/win32/debug/system-error-c
 robocopy gui,https://docs.microsoft.com/en-us/visualstudio/install/create-a-network-installation-of-visual-studio,1
 nolock,https://docs.microsoft.com/en-us/sql/t-sql/queries/hints-transact-sql-table,10
 nolock,https://docs.microsoft.com/en-us/dotnet/api/microsoft.xrm.sdk.query.queryexpression.nolock,9
-nolock,https://docs.microsoft.com/en-us/dotnet/api/microsoft.azure.sqldatabase.elasticscale.shardmanagement.mappinglocktoken.nolock,7
-nolock,https://docs.microsoft.com/en-us/dotnet/api/microsoft.sqlserver.transactsql.scriptdom.tablehintkind,6
 nolock,https://docs.microsoft.com/en-us/sql/t-sql/queries/hints-transact-sql-query,5
 nolock,https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/getchar-nolock-getwchar-nolock,4
 nolock,https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/scalable-customization-design/transaction-design-patterns,2
@@ -8380,11 +8126,8 @@ asp.net mvc,https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started
 asp.net mvc,https://docs.microsoft.com/en-us/aspnet/,3
 asp.net mvc,https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/overview/asp-net-mvc-overview,2
 asp.net mvc,https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/reading-related-data-with-the-entity-framework-in-an-asp-net-mvc-application,1
-active directory certificate services,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831740(v%3Dws.11),10
 active directory certificate services,https://docs.microsoft.com/en-us/windows-server/networking/core-network-guide/cncg/server-certs/install-the-certification-authority,9
-active directory certificate services,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn486797(v%3Dws.11),7
 active directory certificate services,https://docs.microsoft.com/en-us/windows-server/networking/core-network-guide/cncg/server-certs/server-certificate-deployment-overview,5
-active directory certificate services,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831649(v%3Dws.11),3
 active directory certificate services,https://docs.microsoft.com/en-us/windows/win32/seccrypto/programming-certificate-services,2
 active directory certificate services,https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/audit-certification-services,1
 sharepoint 2013,https://docs.microsoft.com/en-us/sharepoint/sharepoint-server,10
@@ -8412,7 +8155,6 @@ smb,https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c
 smb,https://docs.microsoft.com/en-us/windows-server/storage/file-server/troubleshoot/detect-enable-and-disable-smbv1-v2-v3,8
 smb,https://docs.microsoft.com/en-us/windows-server/storage/file-server/smb-direct,7
 smb,https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/file-share--smb--symbol-server,6
-smb,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn610980(v%3Dws.11),4
 smb,https://docs.microsoft.com/en-us/windows-server/storage/file-server/troubleshoot/slow-file-transfer,3
 smb,https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-create-volumes-smb,2
 smb,https://docs.microsoft.com/en-us/windows-server/storage/file-server/file-server-smb-overview,1
@@ -8424,7 +8166,6 @@ not equal,https://docs.microsoft.com/en-us/sql/t-sql/language-elements/not-equal
 not equal,https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/equality-operators,4
 not equal,https://docs.microsoft.com/en-us/dax/dax-operator-reference,3
 not equal,https://docs.microsoft.com/en-us/office/client-developer/access/not-equal-toaccess-custom-web-app,2
-not equal,https://docs.microsoft.com/en-us/biztalk/core/technical-reference/not-equal-functoid,1
 activate,https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.form.activate,10
 activate,https://docs.microsoft.com/en-us/windows/win32/api/mmdeviceapi/nf-mmdeviceapi-immdevice-activate,9
 activate,https://docs.microsoft.com/en-us/azure/information-protection/activate-service,8
@@ -8519,17 +8260,12 @@ DWORD,https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-dtyp/26262
 DWORD,https://docs.microsoft.com/en-us/cpp/assembler/masm/dword,9
 DWORD,https://docs.microsoft.com/en-us/windows/win32/winprog/windows-data-types,8
 DWORD,https://docs.microsoft.com/en-us/officeonlineserver/enable-tls-1-1-and-tls-1-2-support-in-office-online-server,7
-DWORD,https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-sqmcs/099e39ce-0556-4f65-b50e-5e796efdf399,5
 DWORD,https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/configuring-the-registry,4
 DWORD,https://docs.microsoft.com/en-us/windows/win32/procthread/creating-threads,3
-DWORD,https://docs.microsoft.com/en-us/windows/win32/api/infotech/nf-infotech-iitproplist-set(propid_dword_dword),1
 GetModuleFileName,https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getmodulefilenamea,10
 GetModuleFileName,https://docs.microsoft.com/en-us/windows/win32/devnotes/-getmodulefilename,9
-GetModuleFileName,https://docs.microsoft.com/en-us/previous-versions/ms908441(v%3Dmsdn.10),8
-GetModuleFileName,https://docs.microsoft.com/en-us/archive/msdn-magazine/2002/february/c-q-a-getting-a-class-name-imgview-revisited-getmodulefilename-and-more,7
 GetModuleFileName,https://docs.microsoft.com/en-us/windows/win32/psapi/module-information,6
 GetModuleFileName,https://docs.microsoft.com/en-us/windows/win32/api/psapi/nf-psapi-getprocessimagefilenamea,4
-GetModuleFileName,https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/sti/nf-sti-istillimagew-registerlaunchapplication,3
 GetModuleFileName,https://docs.microsoft.com/en-us/windows/win32/sbscs/authoring-state-storage-for-side-by-side-assemblies,2
 GetModuleFileName,https://docs.microsoft.com/en-us/windows/win32/api/psapi/nf-psapi-getmodulefilenameexa,1
 popup,https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.primitives.popup,10
@@ -8550,7 +8286,6 @@ intellisense,https://docs.microsoft.com/en-us/dotnet/core/install/localized-inte
 intellisense,https://docs.microsoft.com/en-us/visualstudio/ide/reference/intellisense-completion-unimported-types,5
 intellisense,https://docs.microsoft.com/en-us/sql/database-engine/options-text-editor-transact-sql-intellisense,4
 intellisense,https://docs.microsoft.com/en-us/visualstudio/ide/visual-cpp-intellisense,3
-intellisense,https://docs.microsoft.com/en-us/visualstudio/ide/reference/options-text-editor-fsharp-intellisense,2
 intellisense,https://docs.microsoft.com/en-us/visualstudio/ide/javascript-intellisense,1
 history,https://docs.microsoft.com/en-us/officeupdates/update-history-office365-proplus-by-date,10
 history,https://docs.microsoft.com/en-us/officeupdates/update-history-office-for-mac,9
@@ -8602,12 +8337,8 @@ call,https://docs.microsoft.com/en-us/graph/api/resources/call,1
 commit,https://docs.microsoft.com/en-us/sql/t-sql/language-elements/commit-transaction-transact-sql,10
 commit,https://docs.microsoft.com/en-us/sql/t-sql/language-elements/commit-work-transact-sql,9
 commit,https://docs.microsoft.com/en-us/azure/devops/repos/git/commits,8
-commit,https://docs.microsoft.com/en-us/windows/win32/api/wincodec/nf-wincodec-iwicbitmapframeencode-commit,7
 commit,https://docs.microsoft.com/en-us/windows/win32/api/objidl/nf-objidl-istream-commit,6
-commit,https://docs.microsoft.com/en-us/windows/win32/api/dcomp/nf-dcomp-idcompositiondevice2-commit,5
 commit,https://docs.microsoft.com/en-us/azure/devops/repos/git/resolution-mentions,4
-commit,https://docs.microsoft.com/en-us/dotnet/api/eventkit.ekeventstore.commit,3
-commit,https://docs.microsoft.com/en-us/windows/win32/api/wincodec/nf-wincodec-iwicfastmetadataencoder-commit,2
 commit,https://docs.microsoft.com/en-us/windows/win32/api/objidl/nf-objidl-istorage-commit,1
 mfc,https://docs.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications,10
 mfc,https://docs.microsoft.com/en-us/cpp/mfc/mfc-and-atl,9
@@ -8621,8 +8352,6 @@ mfc,https://docs.microsoft.com/en-us/cpp/mfc/reference/mfc-classes,2
 mfc,https://docs.microsoft.com/en-us/cpp/mfc/mfc-mbcs-dll-add-on,1
 ajax,https://docs.microsoft.com/en-us/aspnet/ajax/,10
 ajax,https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview,9
-ajax,https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.webviewpage-1.ajax,8
-ajax,https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.viewpage-1.ajax,7
 ajax,https://docs.microsoft.com/en-us/aspnet/web-forms/overview/ajax-control-toolkit/getting-started/get-started-with-the-ajax-control-toolkit-cs,5
 ajax,https://docs.microsoft.com/en-us/aspnet/ajax/cdn/,4
 ajax,https://docs.microsoft.com/en-us/aspnet/ajax/cdn/jquery-ui/cdnjqueryui1121,3
@@ -8644,7 +8373,6 @@ LoadLibrary,https://docs.microsoft.com/en-us/cpp/build/loadlibrary-and-afxloadli
 LoadLibrary,https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-loadlibraryexa,7
 LoadLibrary,https://docs.microsoft.com/en-us/dotnet/api/java.lang.javasystem.loadlibrary,6
 LoadLibrary,https://docs.microsoft.com/en-us/windows/win32/dlls/using-run-time-dynamic-linking,4
-LoadLibrary,https://docs.microsoft.com/en-us/dotnet/api/java.lang.runtime.loadlibrary,3
 LoadLibrary,https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-setdlldirectorya,2
 LoadLibrary,https://docs.microsoft.com/en-us/windows/win32/dlls/dynamic-link-library-security,1
 payment,https://docs.microsoft.com/en-us/dynamics365/finance/accounts-receivable/payment-insights-overview,10
@@ -8761,12 +8489,7 @@ replication,https://docs.microsoft.com/en-us/azure/container-registry/container-
 replication,https://docs.microsoft.com/en-us/azure/sql-database/replication-to-sql-database,4
 replication,https://docs.microsoft.com/en-us/sql/relational-databases/replication/snapshot-replication,3
 replication,https://docs.microsoft.com/en-us/configmgr/core/plan-design/hierarchy/file-based-replication,1
-2012,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj612867(v%3Dws.11),10
 2012,https://docs.microsoft.com/en-us/iis/application-frameworks/running-classic-asp-applications-on-iis-7-and-iis-8/classic-asp-not-installed-by-default-on-iis,9
-2012,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn303418(v%3Dws.11),7
-2012,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj574204(v%3Dws.11),6
-2012,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh801901(v%3Dws.11),5
-2012,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn303416(v%3Dws.11),4
 2012,https://docs.microsoft.com/en-us/windows-server/upgrade/upgrade-2012r2-to-2019,3
 2012,https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2012-version-history,2
 type,https://docs.microsoft.com/en-us/dotnet/api/system.type,10
@@ -8894,7 +8617,6 @@ debugging,https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/set
 365,https://docs.microsoft.com/en-us/learn/certifications/d365-fundamentals,2
 border,https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.border,10
 border,https://docs.microsoft.com/en-us/uwp/api/windows.ui.xaml.controls.border,9
-border,https://docs.microsoft.com/en-us/previous-versions/ms536476(v%3Dvs.85),8
 border,https://docs.microsoft.com/en-us/microsoftteams/direct-routing-border-controllers,7
 border,https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.border.padding,6
 border,https://docs.microsoft.com/en-us/dotnet/api/documentformat.openxml.spreadsheet.border,5
@@ -8903,12 +8625,6 @@ border,https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/controls/pro
 border,https://docs.microsoft.com/en-us/office/troubleshoot/excel/use-draw-border-tools,2
 border,https://docs.microsoft.com/en-us/office/vba/api/excel.range.borders,1
 closehandle,https://docs.microsoft.com/en-us/windows/win32/api/handleapi/nf-handleapi-closehandle,10
-closehandle,https://docs.microsoft.com/en-us/dotnet/api/microsoft.crm.unifiedservicedesk.dynamics.controls.nativemethods.closehandle,6
-closehandle,https://docs.microsoft.com/en-us/dotnet/api/microsoft.hostintegration.drda.common.safetokenhandle.closehandle,5
-closehandle,https://docs.microsoft.com/en-us/dotnet/api/microsoft.rtc.sip.serveragent.closehandle,4
-closehandle,https://docs.microsoft.com/en-us/windows/win32/seccrypto/icertstore-closehandle,3
-closehandle,https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/-closehandle--close-handle-,2
-closehandle,https://docs.microsoft.com/en-us/dotnet/api/microsoft.enterprisemanagement.runtime.taskresultstatus.closehandle,1
 unicode,https://docs.microsoft.com/en-us/windows/win32/intl/unicode,9
 unicode,https://docs.microsoft.com/en-us/sql/t-sql/functions/unicode-transact-sql,8
 unicode,https://docs.microsoft.com/en-us/dotnet/api/system.text.unicodeencoding,7
@@ -8951,7 +8667,6 @@ COALESCE,https://docs.microsoft.com/en-us/azure/kusto/query/coalescefunction,7
 COALESCE,https://docs.microsoft.com/en-us/dotnet/api/system.linq.expressions.expression.coalesce,6
 COALESCE,https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/disable-heap-coalesce-on-free,5
 COALESCE,https://docs.microsoft.com/en-us/office/client-developer/access/coalesce-function-access-custom-web-app,4
-COALESCE,https://docs.microsoft.com/en-us/dotnet/api/microsoft.spark.sql.dataframe.coalesce,3
 COALESCE,https://docs.microsoft.com/en-us/u-sql/common-sql-expressions-in,1
 hybrid,https://docs.microsoft.com/en-us/sharepoint/hybrid/hybrid,10
 hybrid,https://docs.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections,9
