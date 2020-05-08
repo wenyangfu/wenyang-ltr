@@ -1,21 +1,22 @@
-# wenyang-ltr
-
 ## What's This?
-- An end-to-end tutorial for training an external L2 Ranker on top of Azure Cognitive Search.
+A tutorial for improving search relevance in applcations baked by Azure Cognitive Search following the [Learning To Rank](https://en.wikipedia.org/wiki/Learning_to_rank) pattern.
 
 ## Who is This For?
-- Azure Cognitive Search users who are looking to increase relevance in their search systems.
-    - Azure Cognitive Search provides [Scoring Profiles](https://docs.microsoft.com/en-us/azure/search/index-add-scoring-profiles) as a way to boost relevance. This tutorial demonstrates more advanced techniques that can be used if you hit a wall with Scoring Profiles.
-- Users interested in enriching their search systems with machine learning.
+Azure Cognitive Search users who are looking to improve relevance in their applications. Azure Cognitive Search provides different ways to control search relevance including [Scoring Profiles](https://docs.microsoft.com/en-us/azure/search/index-add-scoring-profiles) and [query term boosting](https://docs.microsoft.com/en-us/azure/search/search-query-lucene-examples#example-5-term-boosting). Those techniques work well in scenarios when indexed content as well as user query patterns don't change frequently and are well understood. In applications where this is not true, Machine Learning based techniques can be used to tune relevance dynamically.
 
 ## Why L2 Ranker?
-- Machine learned ranking models are highly effective and battle tested, seeing live use in many search systems, such as Bing, Google, Facebook, Twitter, and Netflix. A good ranking model drastically improves the quality of any given search experience.
-- Training and serving a live ranking system involves lots of "gotchas". This tutorial distills the training process down to a simple, yet robust form.
+- Machine learned ranking models are highly effective especially in applications that handle a lot of data and user traffic such as Bing, Google, Facebook, Twitter, and Netflix, but can be adopted to all applications where a notion of what's relevant can be defined and observed. Machine Learning based approaches to tune search relevance allow to inject changing information about user behavior and preferences into the ranking model.
+- Training and serving a ranking model involves lots of "gotchas". This tutorial describes a simple pattern for doing this with Azure Cognitive Seach as the retrieval engine where reranking happens on the application side.
+
+ ## Table of Contents
+
+ - 
+ - 
 
 # Setup
 
 ## Prerequisites
-- An existing [Azure Cognitive Search](https://azure.microsoft.com/en-us/services/search/) cluster
+- An existing [Azure Cognitive Search](https://azure.microsoft.com/en-us/services/search/) service.
 
 ### Optional
 - Prior background in machine learning would be good to have. For a hands-on, introductory tutorial, check out [Machine learning crash course](https://docs.microsoft.com/en-us/learn/paths/ml-crash-course/). [Andrew Ng's Machine Learning course](https://www.coursera.org/learn/machine-learning) is also a great option if you have more time.
@@ -37,3 +38,4 @@
 - Please note that MyBinder is a free public service with limited computational resources. Skip the K-Fold cross-validation section if you're running this on Binder.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://aka.ms/AA877hx)
+ 
