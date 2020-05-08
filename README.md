@@ -1,5 +1,5 @@
 ## What's This?
-A tutorial for improving search relevance in applcations baked by Azure Cognitive Search following the [Learning To Rank](https://en.wikipedia.org/wiki/Learning_to_rank) pattern.
+A tutorial for improving search relevance in applcations backed by Azure Cognitive Search following the [Learning To Rank](https://en.wikipedia.org/wiki/Learning_to_rank) pattern.
 
 ## Who is This For?
 Azure Cognitive Search users who are looking to improve relevance in their applications. Azure Cognitive Search provides different ways to control search relevance including [Scoring Profiles](https://docs.microsoft.com/en-us/azure/search/index-add-scoring-profiles) and [query term boosting](https://docs.microsoft.com/en-us/azure/search/search-query-lucene-examples#example-5-term-boosting). Those techniques work well in scenarios when indexed content as well as user query patterns don't change frequently and are well understood. In applications where this is not true, Machine Learning based techniques can be used to tune relevance dynamically.
