@@ -8,10 +8,14 @@ Azure Cognitive Search users who are looking to improve relevance in their appli
 - Machine learned ranking models are highly effective especially in applications that handle a lot of data and user traffic such as Bing, Google, Facebook, Twitter, and Netflix, but can be adopted to all applications where a notion of what's relevant can be defined and observed. Machine Learning based approaches to tune search relevance allow to inject changing information about user behavior and preferences into the ranking model.
 - Training and serving a ranking model involves lots of "gotchas". This tutorial describes a simple pattern for doing this with Azure Cognitive Seach as the retrieval engine where reranking happens on the application side.
 
- ## Table of Contents
+## Table of Contents
 
- - 
- - 
+- [Setup](#setup)
+- [Prerequisites](#prerequisites)
+    - [Optional](#optional)
+- [One-Click Alternative](#one-click-alternative)
+- [Conclusion](conclusion.md)
+   
 
 # Setup
 
