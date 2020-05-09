@@ -1,11 +1,11 @@
 ## What's This?
-A tutorial for improving search relevance in applcations backed by Azure Cognitive Search following the [Learning To Rank](https://en.wikipedia.org/wiki/Learning_to_rank) pattern.
+A tutorial for improving search relevance in applcations backed by Azure Cognitive Search following the [Learning To Rank](https://en.wikipedia.org/wiki/Learning_to_rank) approach.
 
 ## Who is This For?
-Azure Cognitive Search users who are looking to improve relevance in their applications. Azure Cognitive Search provides different ways to control search relevance including [Scoring Profiles](https://docs.microsoft.com/en-us/azure/search/index-add-scoring-profiles) and [query term boosting](https://docs.microsoft.com/en-us/azure/search/search-query-lucene-examples#example-5-term-boosting). Those techniques work well in scenarios when indexed content as well as user query patterns don't change frequently and are well understood. In applications where this is not true, Machine Learning based techniques can be used to tune relevance dynamically.
+Azure Cognitive Search users who are looking to improve relevance in their applications. Azure Cognitive Search provides different ways to control search relevance including [Scoring Profiles](https://docs.microsoft.com/en-us/azure/search/index-add-scoring-profiles) and [query term boosting](https://docs.microsoft.com/en-us/azure/search/search-query-lucene-examples#example-5-term-boosting). Those techniques work well in scenarios where indexed content and user query patterns don't change frequently and are well understood. In applications where this is not true, Machine Learning based techniques can be used to tune relevance dynamically.
 
-## Why L2 Ranker?
-- Machine learned ranking models are highly effective especially in applications that handle a lot of data and user traffic such as Bing, Google, Facebook, Twitter, and Netflix, but can be adopted to all applications where a notion of what's relevant can be defined and observed. Machine Learning based approaches to tune search relevance allow to inject changing information about user behavior and preferences into the ranking model.
+## Why Machine Learning for Ranking?
+- Machine learned ranking models are highly effective, especially in applications that handle a lot of data and user traffic such as Bing, Google, Facebook, Twitter, and Netflix. They can be adopted to all applications where a notion of what's relevant can be defined and observed. Machine Learning based approaches to tune search relevance allow ever-changing information about user behavior and preferences to be injected in the search experience.
 - Training and serving a ranking model involves lots of "gotchas". This tutorial describes a simple pattern for doing this with Azure Cognitive Seach as the retrieval engine where reranking happens on the application side.
 
 ## Table of Contents
