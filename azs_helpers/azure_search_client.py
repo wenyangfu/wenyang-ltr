@@ -186,8 +186,8 @@ class azure_search_client:
             "container" : { "name" : "docs-english-20200217" }
         } 
 
-        response = requests.put(
-            self.datasource_api_uri_for_update(self.datasource_name),
+        response = requests.post(
+            self.datasource_api_uri,
             headers=self.headers,
             json=datasource,
             verify=False
@@ -231,7 +231,7 @@ class azure_search_client:
         current_count = 0
         while current_count < expected_document_count:
             current_count = self.index_documents_count()
-            print(f"Ingested {current_count} out of {expected_document_count} expected documents. Waiting 10 seconds.")
+            print(f"Ingested {current_count} out of {expected_document_count} documents. Waiting 10 seconds.")
             time.sleep(10)
         print("Completed indexing.") 
 

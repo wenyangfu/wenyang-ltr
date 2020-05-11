@@ -266,12 +266,12 @@ def escape_query(query):
     return query
 
 
-def get_search_results_from_service(service, query, urls_filter):
+def get_search_results(service, query, urls_filter):
     search_request_body = {
         "search": escape_query(query),
         "featuresMode": "enabled",
         "select": "title_en_us, url_en_us, sectionCount, tableCount, normalized_pageview",
-        "searchFields": "body_en_us,description_en_us,title_en_us,apiNames,urlPath,searchTerms, keyPhrases_en_us",
+        "searchFields": "body_en_us, description_en_us, title_en_us, apiNames, urlPath, searchTerms, keyPhrases_en_us",
         "scoringStatistics": "global",
         "sessionId" : "my_session",
         "top" : 20
