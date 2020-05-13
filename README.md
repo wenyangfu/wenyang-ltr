@@ -13,15 +13,13 @@ Azure Cognitive Search users who are looking to improve relevance in their appli
 If you don't want to run the code, feel free to read the recipe at the following links. Otherwise, continue onwards.
 - [Part 1: Data Engineering](l2r_part1_data_eng.ipynb)
 - [Part 2: Experiment](l2r_part2_experiment.ipynb)
+- [Conclusion](conclusion.md)
 
 ## Table of Contents
 - [Setup](#setup)
     - [Prerequisites](#prerequisites)
     - [Optional](#optional)
 - [One-Click Alternative](#one-click-alternative)
-
-- [Conclusion](conclusion.md)
-
 
 ## Setup
 
