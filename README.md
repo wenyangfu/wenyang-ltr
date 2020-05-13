@@ -8,24 +8,30 @@ Azure Cognitive Search users who are looking to improve relevance in their appli
 - Machine learned ranking models are highly effective, especially in applications that handle a lot of data and user traffic such as Bing, Google, Facebook, Twitter, and Netflix. They can be adopted to all applications where a notion of what's relevant can be defined and observed. Machine Learning based approaches to tune search relevance allow ever-changing information about user behavior and preferences to be injected in the search experience.
 - Training and serving a ranking model involves lots of "gotchas". This tutorial describes a simple pattern for doing this with Azure Cognitive Seach as the retrieval engine where reranking happens on the application side.
 
-## Table of Contents
+## Getting Started
 
+If you don't want to run the code, feel free to read the recipe at the following links. Otherwise, continue onwards.
+- [Part 1: Data Engineering](l2r_part1_data_eng.ipynb)
+- [Part 2: Experiment](l2r_part2_experiment.ipynb)
+
+## Table of Contents
 - [Setup](#setup)
-- [Prerequisites](#prerequisites)
+    - [Prerequisites](#prerequisites)
     - [Optional](#optional)
 - [One-Click Alternative](#one-click-alternative)
+
 - [Conclusion](conclusion.md)
-   
 
-# Setup
 
-## Prerequisites
+## Setup
+
+### Prerequisites
 - An existing [Azure Cognitive Search](https://azure.microsoft.com/en-us/services/search/) service.
 
-### Optional
+#### Optional
 - Prior background in machine learning would be good to have. For a hands-on, introductory tutorial, check out [Machine learning crash course](https://docs.microsoft.com/en-us/learn/paths/ml-crash-course/). [Andrew Ng's Machine Learning course](https://www.coursera.org/learn/machine-learning) is also a great option if you have more time.
 
-## Installation
+### Installation
 
 1. Download and install the latest version of [Anaconda](https://www.anaconda.com/distribution/#download-section) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
 2. Clone this repository to your local machine.
@@ -35,8 +41,7 @@ Azure Cognitive Search users who are looking to improve relevance in their appli
 4. Activate the environment with `conda activate azs-l2r`.
 5. Run Jupyter with your choice of `jupyter notebook` or `jupyter lab`. Navigate to the tutorial at `l2r_part1_data_eng.ipynb` and `l2r_part2_experiment.ipynb`.
 
-
-## One-Click Alternative
+### One-Click Alternative
 
 - For a free, runnable link to the notebook, please click on the Binder button below.
 - Please note that MyBinder is a free public service with limited computational resources. Skip the K-Fold cross-validation section if you're running this on Binder.
