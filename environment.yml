@@ -11,6 +11,7 @@ dependencies:
   - jupyter
   - jupyterlab
   - seaborn
+  - tqdm
   - pip
   - pip:
     - xgboost
