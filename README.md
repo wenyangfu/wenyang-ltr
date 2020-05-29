@@ -15,7 +15,7 @@ Training and serving a ranking model involves lots of "gotchas". This tutorial d
 If you just want to read the code, skip the "Setup" section.
 - [Setup](#setup)
 - [Part 1: Data Engineering](l2r_part1_data_eng.ipynb)
-- [Part 2: Experiment](l2r_part2_experiment.ipynb)
+- [Part 2: Training and Testing a Ranking Model](l2r_part2_experiment.ipynb)
 - [Conclusion](conclusion.md)
 
 ## Setup
