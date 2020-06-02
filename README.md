@@ -1,6 +1,6 @@
 # Add machine learning to search relevance - Azure Cognitive Search
 
-This tutorial demonstrates the adoption of [Learning To Rank or machine-learning ranking (MLR)](https://en.wikipedia.org/wiki/Learning_to_rank) to improve search relevance in search applications backed by Azure Cognitive Search. A new [featuresMode parameter](https://docs.microsoft.com/rest/api/searchservice/2019-05-06-preview/search-documents#featuresmode) returns statistics that are used to train a ranking model.
+This tutorial demonstrates the adoption of [Learning To Rank](https://en.wikipedia.org/wiki/Learning_to_rank) to improve search relevance in search applications backed by Azure Cognitive Search. This tutorial highlights how to use the new [featuresMode parameter](https://docs.microsoft.com/rest/api/searchservice/2019-05-06-preview/search-documents#featuresmode) to train a ranking model.
 
 This tutorial is for developers who are looking to improve relevance in their Azure Cognitive Search applications. Azure Cognitive Search provides different ways to control search relevance including [scoring profiles](https://docs.microsoft.com/azure/search/index-add-scoring-profiles) and [query term boosting](https://docs.microsoft.com/azure/search/search-query-lucene-examples#example-5-term-boosting). These techniques work well in scenarios where indexed content and user query patterns are relatively static and well understood. In applications where this is not true, machine learning based techniques can be used to tune relevance dynamically.
 
